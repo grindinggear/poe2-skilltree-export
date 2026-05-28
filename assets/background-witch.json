@@ -18,13 +18,21 @@
         },
         "classWitch:Class2": {
             "frame": {
+                "x": 3000,
+                "y": 0,
+                "w": 1500,
+                "h": 1500
+            }
+        },
+        "classWitch:Class3": {
+            "frame": {
                 "x": 0,
                 "y": 1500,
                 "w": 1500,
                 "h": 1500
             }
         },
-        "classWitch:Class3": {
+        "classWitch:Class4": {
             "frame": {
                 "x": 1500,
                 "y": 1500,
@@ -37,7 +45,7 @@
         "image": "background-witch.webp",
         "scale": "0.5",
         "size": {
-            "w": 3000,
+            "w": 4500,
             "h": 3000
         }
     }
