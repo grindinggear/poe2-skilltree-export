@@ -328,9 +328,17 @@
                 "h": 34
             }
         },
-        "normalActive:Art/2DArt/SkillIcons/passives/ColdDamagenode.png": {
+        "normalActive:Art/2DArt/SkillIcons/passives/ColdAndFireHybridNotable.png": {
             "frame": {
                 "x": 374,
+                "y": 34,
+                "w": 34,
+                "h": 34
+            }
+        },
+        "normalActive:Art/2DArt/SkillIcons/passives/ColdDamagenode.png": {
+            "frame": {
+                "x": 408,
                 "y": 34,
                 "w": 34,
                 "h": 34
@@ -338,7 +346,15 @@
         },
         "normalActive:Art/2DArt/SkillIcons/passives/ColdFireNode.png": {
             "frame": {
-                "x": 408,
+                "x": 442,
+                "y": 34,
+                "w": 34,
+                "h": 34
+            }
+        },
+        "normalActive:Art/2DArt/SkillIcons/passives/ColdLightningNode.png": {
+            "frame": {
+                "x": 476,
                 "y": 34,
                 "w": 34,
                 "h": 34
@@ -346,7 +362,7 @@
         },
         "normalActive:Art/2DArt/SkillIcons/passives/ColdResistNode.png": {
             "frame": {
-                "x": 442,
+                "x": 510,
                 "y": 34,
                 "w": 34,
                 "h": 34
@@ -354,7 +370,7 @@
         },
         "normalActive:Art/2DArt/SkillIcons/passives/CompanionsNode1.png": {
             "frame": {
-                "x": 476,
+                "x": 544,
                 "y": 34,
                 "w": 34,
                 "h": 34
@@ -362,7 +378,7 @@
         },
         "normalActive:Art/2DArt/SkillIcons/passives/CorpseDamage.png": {
             "frame": {
-                "x": 510,
+                "x": 578,
                 "y": 34,
                 "w": 34,
                 "h": 34
@@ -370,7 +386,7 @@
         },
         "normalActive:Art/2DArt/SkillIcons/passives/CurseEffectNode.png": {
             "frame": {
-                "x": 544,
+                "x": 612,
                 "y": 34,
                 "w": 34,
                 "h": 34
@@ -378,7 +394,7 @@
         },
         "normalActive:Art/2DArt/SkillIcons/passives/DeadEye/DeadeyeDealMoreProjectileDamageClose.png": {
             "frame": {
-                "x": 578,
+                "x": 646,
                 "y": 34,
                 "w": 34,
                 "h": 34
@@ -386,7 +402,7 @@
         },
         "normalActive:Art/2DArt/SkillIcons/passives/DeadEye/DeadeyeDealMoreProjectileDamageFarAway.png": {
             "frame": {
-                "x": 612,
+                "x": 680,
                 "y": 34,
                 "w": 34,
                 "h": 34
@@ -394,7 +410,7 @@
         },
         "normalActive:Art/2DArt/SkillIcons/passives/DeadEye/DeadeyeNode.png": {
             "frame": {
-                "x": 646,
+                "x": 714,
                 "y": 34,
                 "w": 34,
                 "h": 34
@@ -402,7 +418,7 @@
         },
         "normalActive:Art/2DArt/SkillIcons/passives/DiscipleoftheDjinn/DjinnNode.png": {
             "frame": {
-                "x": 680,
+                "x": 748,
                 "y": 34,
                 "w": 34,
                 "h": 34
@@ -410,7 +426,7 @@
         },
         "normalActive:Art/2DArt/SkillIcons/passives/DruidGenericShapeshiftNode.png": {
             "frame": {
-                "x": 714,
+                "x": 782,
                 "y": 34,
                 "w": 34,
                 "h": 34
@@ -418,7 +434,7 @@
         },
         "normalActive:Art/2DArt/SkillIcons/passives/DruidShapeshiftBearNode.png": {
             "frame": {
-                "x": 748,
+                "x": 816,
                 "y": 34,
                 "w": 34,
                 "h": 34
@@ -426,7 +442,7 @@
         },
         "normalActive:Art/2DArt/SkillIcons/passives/DruidShapeshiftWolfNode.png": {
             "frame": {
-                "x": 782,
+                "x": 850,
                 "y": 34,
                 "w": 34,
                 "h": 34
@@ -434,7 +450,7 @@
         },
         "normalActive:Art/2DArt/SkillIcons/passives/DruidShapeshiftWyvernNode.png": {
             "frame": {
-                "x": 816,
+                "x": 884,
                 "y": 34,
                 "w": 34,
                 "h": 34
@@ -442,7 +458,7 @@
         },
         "normalActive:Art/2DArt/SkillIcons/passives/ElementalDamagenode.png": {
             "frame": {
-                "x": 850,
+                "x": 918,
                 "y": 34,
                 "w": 34,
                 "h": 34
@@ -450,7 +466,7 @@
         },
         "normalActive:Art/2DArt/SkillIcons/passives/ElementalDamagewithAttacks2.png": {
             "frame": {
-                "x": 884,
+                "x": 952,
                 "y": 34,
                 "w": 34,
                 "h": 34
@@ -458,7 +474,7 @@
         },
         "normalActive:Art/2DArt/SkillIcons/passives/ElementalDominion2.png": {
             "frame": {
-                "x": 918,
+                "x": 986,
                 "y": 34,
                 "w": 34,
                 "h": 34
@@ -466,23 +482,23 @@
         },
         "normalActive:Art/2DArt/SkillIcons/passives/ElementalResistance2.png": {
             "frame": {
-                "x": 952,
-                "y": 34,
+                "x": 0,
+                "y": 68,
                 "w": 34,
                 "h": 34
             }
         },
         "normalActive:Art/2DArt/SkillIcons/passives/EnergyShieldNode.png": {
             "frame": {
-                "x": 986,
-                "y": 34,
+                "x": 34,
+                "y": 68,
                 "w": 34,
                 "h": 34
             }
         },
         "normalActive:Art/2DArt/SkillIcons/passives/EnergyShieldRechargeDeflect.png": {
             "frame": {
-                "x": 0,
+                "x": 68,
                 "y": 68,
                 "w": 34,
                 "h": 34
@@ -490,7 +506,7 @@
         },
         "normalActive:Art/2DArt/SkillIcons/passives/EnergyShieldRechargeDeflectNode.png": {
             "frame": {
-                "x": 34,
+                "x": 102,
                 "y": 68,
                 "w": 34,
                 "h": 34
@@ -498,7 +514,7 @@
         },
         "normalActive:Art/2DArt/SkillIcons/passives/EvasionNode.png": {
             "frame": {
-                "x": 68,
+                "x": 136,
                 "y": 68,
                 "w": 34,
                 "h": 34
@@ -506,7 +522,7 @@
         },
         "normalActive:Art/2DArt/SkillIcons/passives/EvasionandEnergyShieldNode.png": {
             "frame": {
-                "x": 102,
+                "x": 170,
                 "y": 68,
                 "w": 34,
                 "h": 34
@@ -514,7 +530,7 @@
         },
         "normalActive:Art/2DArt/SkillIcons/passives/FireDamagenode.png": {
             "frame": {
-                "x": 136,
+                "x": 204,
                 "y": 68,
                 "w": 34,
                 "h": 34
@@ -522,7 +538,7 @@
         },
         "normalActive:Art/2DArt/SkillIcons/passives/FireResistNode.png": {
             "frame": {
-                "x": 170,
+                "x": 238,
                 "y": 68,
                 "w": 34,
                 "h": 34
@@ -530,7 +546,7 @@
         },
         "normalActive:Art/2DArt/SkillIcons/passives/Gemling/GemlingLevelDexSkillGems.png": {
             "frame": {
-                "x": 204,
+                "x": 272,
                 "y": 68,
                 "w": 34,
                 "h": 34
@@ -538,7 +554,7 @@
         },
         "normalActive:Art/2DArt/SkillIcons/passives/Gemling/GemlingLevelIntSkillGems.png": {
             "frame": {
-                "x": 238,
+                "x": 306,
                 "y": 68,
                 "w": 34,
                 "h": 34
@@ -546,7 +562,7 @@
         },
         "normalActive:Art/2DArt/SkillIcons/passives/Gemling/GemlingLevelStrSkillGems.png": {
             "frame": {
-                "x": 272,
+                "x": 340,
                 "y": 68,
                 "w": 34,
                 "h": 34
@@ -554,7 +570,7 @@
         },
         "normalActive:Art/2DArt/SkillIcons/passives/Gemling/GemlingNode.png": {
             "frame": {
-                "x": 306,
+                "x": 374,
                 "y": 68,
                 "w": 34,
                 "h": 34
@@ -562,7 +578,7 @@
         },
         "normalActive:Art/2DArt/SkillIcons/passives/GreenAttackSmallPassive.png": {
             "frame": {
-                "x": 340,
+                "x": 408,
                 "y": 68,
                 "w": 34,
                 "h": 34
@@ -570,7 +586,7 @@
         },
         "normalActive:Art/2DArt/SkillIcons/passives/Harrier.png": {
             "frame": {
-                "x": 374,
+                "x": 442,
                 "y": 68,
                 "w": 34,
                 "h": 34
@@ -578,7 +594,7 @@
         },
         "normalActive:Art/2DArt/SkillIcons/passives/HeraldBuffEffectNode2.png": {
             "frame": {
-                "x": 408,
+                "x": 476,
                 "y": 68,
                 "w": 34,
                 "h": 34
@@ -586,7 +602,7 @@
         },
         "normalActive:Art/2DArt/SkillIcons/passives/HiredKiller2.png": {
             "frame": {
-                "x": 442,
+                "x": 510,
                 "y": 68,
                 "w": 34,
                 "h": 34
@@ -594,7 +610,7 @@
         },
         "normalActive:Art/2DArt/SkillIcons/passives/IncreasedAttackDamageNode.png": {
             "frame": {
-                "x": 476,
+                "x": 544,
                 "y": 68,
                 "w": 34,
                 "h": 34
@@ -602,7 +618,7 @@
         },
         "normalActive:Art/2DArt/SkillIcons/passives/IncreasedChaosDamage.png": {
             "frame": {
-                "x": 510,
+                "x": 578,
                 "y": 68,
                 "w": 34,
                 "h": 34
@@ -610,7 +626,7 @@
         },
         "normalActive:Art/2DArt/SkillIcons/passives/IncreasedPhysicalDamage.png": {
             "frame": {
-                "x": 544,
+                "x": 612,
                 "y": 68,
                 "w": 34,
                 "h": 34
@@ -618,7 +634,7 @@
         },
         "normalActive:Art/2DArt/SkillIcons/passives/IncreasedProjectileSpeedNode.png": {
             "frame": {
-                "x": 578,
+                "x": 646,
                 "y": 68,
                 "w": 34,
                 "h": 34
@@ -626,7 +642,7 @@
         },
         "normalActive:Art/2DArt/SkillIcons/passives/Infernalist/InfernalistNode.png": {
             "frame": {
-                "x": 612,
+                "x": 680,
                 "y": 68,
                 "w": 34,
                 "h": 34
@@ -634,7 +650,7 @@
         },
         "normalActive:Art/2DArt/SkillIcons/passives/Inquistitor/IncreasedElementalDamageAttackCasteSpeed.png": {
             "frame": {
-                "x": 646,
+                "x": 714,
                 "y": 68,
                 "w": 34,
                 "h": 34
@@ -642,7 +658,7 @@
         },
         "normalActive:Art/2DArt/SkillIcons/passives/InstillationsNode1.png": {
             "frame": {
-                "x": 680,
+                "x": 748,
                 "y": 68,
                 "w": 34,
                 "h": 34
@@ -650,7 +666,7 @@
         },
         "normalActive:Art/2DArt/SkillIcons/passives/Invoker/InvokerNode.png": {
             "frame": {
-                "x": 714,
+                "x": 782,
                 "y": 68,
                 "w": 34,
                 "h": 34
@@ -658,7 +674,7 @@
         },
         "normalActive:Art/2DArt/SkillIcons/passives/Lich/LichNode.png": {
             "frame": {
-                "x": 748,
+                "x": 816,
                 "y": 68,
                 "w": 34,
                 "h": 34
@@ -666,7 +682,7 @@
         },
         "normalActive:Art/2DArt/SkillIcons/passives/LifeRecoupNode.png": {
             "frame": {
-                "x": 782,
+                "x": 850,
                 "y": 68,
                 "w": 34,
                 "h": 34
@@ -674,7 +690,7 @@
         },
         "normalActive:Art/2DArt/SkillIcons/passives/LifeandMana.png": {
             "frame": {
-                "x": 816,
+                "x": 884,
                 "y": 68,
                 "w": 34,
                 "h": 34
@@ -682,7 +698,7 @@
         },
         "normalActive:Art/2DArt/SkillIcons/passives/LightningDamagenode.png": {
             "frame": {
-                "x": 850,
+                "x": 918,
                 "y": 68,
                 "w": 34,
                 "h": 34
@@ -690,7 +706,7 @@
         },
         "normalActive:Art/2DArt/SkillIcons/passives/LightningResistNode.png": {
             "frame": {
-                "x": 884,
+                "x": 952,
                 "y": 68,
                 "w": 34,
                 "h": 34
@@ -698,7 +714,7 @@
         },
         "normalActive:Art/2DArt/SkillIcons/passives/ManaLeechThemedNode.png": {
             "frame": {
-                "x": 918,
+                "x": 986,
                 "y": 68,
                 "w": 34,
                 "h": 34
@@ -706,23 +722,23 @@
         },
         "normalActive:Art/2DArt/SkillIcons/passives/MarkNode.png": {
             "frame": {
-                "x": 952,
-                "y": 68,
+                "x": 0,
+                "y": 102,
                 "w": 34,
                 "h": 34
             }
         },
         "normalActive:Art/2DArt/SkillIcons/passives/MartialArtist/MartialArtistNode.png": {
             "frame": {
-                "x": 986,
-                "y": 68,
+                "x": 34,
+                "y": 102,
                 "w": 34,
                 "h": 34
             }
         },
         "normalActive:Art/2DArt/SkillIcons/passives/MasteryBlank.png": {
             "frame": {
-                "x": 0,
+                "x": 68,
                 "y": 102,
                 "w": 34,
                 "h": 34
@@ -730,7 +746,7 @@
         },
         "normalActive:Art/2DArt/SkillIcons/passives/MeleeAoENode.png": {
             "frame": {
-                "x": 34,
+                "x": 102,
                 "y": 102,
                 "w": 34,
                 "h": 34
@@ -738,7 +754,7 @@
         },
         "normalActive:Art/2DArt/SkillIcons/passives/MineAreaOfEffectNode.png": {
             "frame": {
-                "x": 68,
+                "x": 136,
                 "y": 102,
                 "w": 34,
                 "h": 34
@@ -746,7 +762,7 @@
         },
         "normalActive:Art/2DArt/SkillIcons/passives/MinionElementalResistancesNode.png": {
             "frame": {
-                "x": 102,
+                "x": 170,
                 "y": 102,
                 "w": 34,
                 "h": 34
@@ -754,7 +770,7 @@
         },
         "normalActive:Art/2DArt/SkillIcons/passives/MinionsandManaNode.png": {
             "frame": {
-                "x": 136,
+                "x": 204,
                 "y": 102,
                 "w": 34,
                 "h": 34
@@ -762,7 +778,7 @@
         },
         "normalActive:Art/2DArt/SkillIcons/passives/MiracleMaker.png": {
             "frame": {
-                "x": 170,
+                "x": 238,
                 "y": 102,
                 "w": 34,
                 "h": 34
@@ -770,7 +786,7 @@
         },
         "normalActive:Art/2DArt/SkillIcons/passives/MonkAccuracyChakra.png": {
             "frame": {
-                "x": 204,
+                "x": 272,
                 "y": 102,
                 "w": 34,
                 "h": 34
@@ -778,7 +794,7 @@
         },
         "normalActive:Art/2DArt/SkillIcons/passives/MonkElementalChakra.png": {
             "frame": {
-                "x": 238,
+                "x": 306,
                 "y": 102,
                 "w": 34,
                 "h": 34
@@ -786,7 +802,7 @@
         },
         "normalActive:Art/2DArt/SkillIcons/passives/MonkEnergyShieldChakra.png": {
             "frame": {
-                "x": 272,
+                "x": 340,
                 "y": 102,
                 "w": 34,
                 "h": 34
@@ -794,7 +810,7 @@
         },
         "normalActive:Art/2DArt/SkillIcons/passives/MonkHealthChakra.png": {
             "frame": {
-                "x": 306,
+                "x": 374,
                 "y": 102,
                 "w": 34,
                 "h": 34
@@ -802,7 +818,7 @@
         },
         "normalActive:Art/2DArt/SkillIcons/passives/MonkManaChakra.png": {
             "frame": {
-                "x": 340,
+                "x": 408,
                 "y": 102,
                 "w": 34,
                 "h": 34
@@ -810,7 +826,7 @@
         },
         "normalActive:Art/2DArt/SkillIcons/passives/MonkStrengthChakra.png": {
             "frame": {
-                "x": 374,
+                "x": 442,
                 "y": 102,
                 "w": 34,
                 "h": 34
@@ -818,7 +834,7 @@
         },
         "normalActive:Art/2DArt/SkillIcons/passives/MonkStunChakra.png": {
             "frame": {
-                "x": 408,
+                "x": 476,
                 "y": 102,
                 "w": 34,
                 "h": 34
@@ -826,7 +842,7 @@
         },
         "normalActive:Art/2DArt/SkillIcons/passives/MovementSpeedandEvasion.png": {
             "frame": {
-                "x": 442,
+                "x": 510,
                 "y": 102,
                 "w": 34,
                 "h": 34
@@ -834,7 +850,7 @@
         },
         "normalActive:Art/2DArt/SkillIcons/passives/NodeDualWieldingDamage.png": {
             "frame": {
-                "x": 476,
+                "x": 544,
                 "y": 102,
                 "w": 34,
                 "h": 34
@@ -842,7 +858,7 @@
         },
         "normalActive:Art/2DArt/SkillIcons/passives/Oracle/OracleNode.png": {
             "frame": {
-                "x": 510,
+                "x": 578,
                 "y": 102,
                 "w": 34,
                 "h": 34
@@ -850,7 +866,7 @@
         },
         "normalActive:Art/2DArt/SkillIcons/passives/PathFinder/PathfinderBrewConcoctionBleed.png": {
             "frame": {
-                "x": 544,
+                "x": 612,
                 "y": 102,
                 "w": 34,
                 "h": 34
@@ -858,7 +874,7 @@
         },
         "normalActive:Art/2DArt/SkillIcons/passives/PathFinder/PathfinderBrewConcoctionCold.png": {
             "frame": {
-                "x": 578,
+                "x": 646,
                 "y": 102,
                 "w": 34,
                 "h": 34
@@ -866,7 +882,7 @@
         },
         "normalActive:Art/2DArt/SkillIcons/passives/PathFinder/PathfinderBrewConcoctionFire.png": {
             "frame": {
-                "x": 612,
+                "x": 680,
                 "y": 102,
                 "w": 34,
                 "h": 34
@@ -874,7 +890,7 @@
         },
         "normalActive:Art/2DArt/SkillIcons/passives/PathFinder/PathfinderBrewConcoctionLightning.png": {
             "frame": {
-                "x": 646,
+                "x": 714,
                 "y": 102,
                 "w": 34,
                 "h": 34
@@ -882,7 +898,7 @@
         },
         "normalActive:Art/2DArt/SkillIcons/passives/PathFinder/PathfinderBrewConcoctionPoison.png": {
             "frame": {
-                "x": 680,
+                "x": 748,
                 "y": 102,
                 "w": 34,
                 "h": 34
@@ -890,7 +906,7 @@
         },
         "normalActive:Art/2DArt/SkillIcons/passives/PathFinder/PathfinderNode.png": {
             "frame": {
-                "x": 714,
+                "x": 782,
                 "y": 102,
                 "w": 34,
                 "h": 34
@@ -898,7 +914,7 @@
         },
         "normalActive:Art/2DArt/SkillIcons/passives/PathFinder/PathfinderPathoftheSorceress.png": {
             "frame": {
-                "x": 748,
+                "x": 816,
                 "y": 102,
                 "w": 34,
                 "h": 34
@@ -906,7 +922,7 @@
         },
         "normalActive:Art/2DArt/SkillIcons/passives/PathFinder/PathfinderPathoftheWarrior.png": {
             "frame": {
-                "x": 782,
+                "x": 850,
                 "y": 102,
                 "w": 34,
                 "h": 34
@@ -914,7 +930,7 @@
         },
         "normalActive:Art/2DArt/SkillIcons/passives/PhysicalDamageChaosNode.png": {
             "frame": {
-                "x": 816,
+                "x": 884,
                 "y": 102,
                 "w": 34,
                 "h": 34
@@ -922,7 +938,7 @@
         },
         "normalActive:Art/2DArt/SkillIcons/passives/PhysicalDamageNode.png": {
             "frame": {
-                "x": 850,
+                "x": 918,
                 "y": 102,
                 "w": 34,
                 "h": 34
@@ -930,7 +946,7 @@
         },
         "normalActive:Art/2DArt/SkillIcons/passives/PhysicalDamageOverTimeNode.png": {
             "frame": {
-                "x": 884,
+                "x": 952,
                 "y": 102,
                 "w": 34,
                 "h": 34
@@ -938,7 +954,7 @@
         },
         "normalActive:Art/2DArt/SkillIcons/passives/Poison.png": {
             "frame": {
-                "x": 918,
+                "x": 986,
                 "y": 102,
                 "w": 34,
                 "h": 34
@@ -946,23 +962,23 @@
         },
         "normalActive:Art/2DArt/SkillIcons/passives/Primalist/PrimalistNode.png": {
             "frame": {
-                "x": 952,
-                "y": 102,
+                "x": 0,
+                "y": 136,
                 "w": 34,
                 "h": 34
             }
         },
         "normalActive:Art/2DArt/SkillIcons/passives/ProjectileDmgNode.png": {
             "frame": {
-                "x": 986,
-                "y": 102,
+                "x": 34,
+                "y": 136,
                 "w": 34,
                 "h": 34
             }
         },
         "normalActive:Art/2DArt/SkillIcons/passives/PuppeteerNode.png": {
             "frame": {
-                "x": 0,
+                "x": 68,
                 "y": 136,
                 "w": 34,
                 "h": 34
@@ -970,7 +986,7 @@
         },
         "normalActive:Art/2DArt/SkillIcons/passives/Rage.png": {
             "frame": {
-                "x": 34,
+                "x": 102,
                 "y": 136,
                 "w": 34,
                 "h": 34
@@ -978,7 +994,7 @@
         },
         "normalActive:Art/2DArt/SkillIcons/passives/RangedTotemDamage.png": {
             "frame": {
-                "x": 68,
+                "x": 136,
                 "y": 136,
                 "w": 34,
                 "h": 34
@@ -986,7 +1002,7 @@
         },
         "normalActive:Art/2DArt/SkillIcons/passives/ReducedSkillEffectDurationNode.png": {
             "frame": {
-                "x": 102,
+                "x": 170,
                 "y": 136,
                 "w": 34,
                 "h": 34
@@ -994,7 +1010,7 @@
         },
         "normalActive:Art/2DArt/SkillIcons/passives/Remnant.png": {
             "frame": {
-                "x": 136,
+                "x": 204,
                 "y": 136,
                 "w": 34,
                 "h": 34
@@ -1002,7 +1018,7 @@
         },
         "normalActive:Art/2DArt/SkillIcons/passives/Shaman/ShamanNode.png": {
             "frame": {
-                "x": 170,
+                "x": 238,
                 "y": 136,
                 "w": 34,
                 "h": 34
@@ -1010,7 +1026,7 @@
         },
         "normalActive:Art/2DArt/SkillIcons/passives/ShieldNodeOffensive.png": {
             "frame": {
-                "x": 204,
+                "x": 272,
                 "y": 136,
                 "w": 34,
                 "h": 34
@@ -1018,7 +1034,7 @@
         },
         "normalActive:Art/2DArt/SkillIcons/passives/SmithofKitava/SmithofKitavaNode.png": {
             "frame": {
-                "x": 238,
+                "x": 306,
                 "y": 136,
                 "w": 34,
                 "h": 34
@@ -1026,7 +1042,7 @@
         },
         "normalActive:Art/2DArt/SkillIcons/passives/SpearsNode1.png": {
             "frame": {
-                "x": 272,
+                "x": 340,
                 "y": 136,
                 "w": 34,
                 "h": 34
@@ -1034,7 +1050,7 @@
         },
         "normalActive:Art/2DArt/SkillIcons/passives/SpellMultiplyer2.png": {
             "frame": {
-                "x": 306,
+                "x": 374,
                 "y": 136,
                 "w": 34,
                 "h": 34
@@ -1042,7 +1058,7 @@
         },
         "normalActive:Art/2DArt/SkillIcons/passives/SpellSuppresionNode.png": {
             "frame": {
-                "x": 340,
+                "x": 408,
                 "y": 136,
                 "w": 34,
                 "h": 34
@@ -1050,7 +1066,7 @@
         },
         "normalActive:Art/2DArt/SkillIcons/passives/SpellSupressionNotable1.png": {
             "frame": {
-                "x": 374,
+                "x": 442,
                 "y": 136,
                 "w": 34,
                 "h": 34
@@ -1058,7 +1074,7 @@
         },
         "normalActive:Art/2DArt/SkillIcons/passives/Stormweaver/StormweaverNode.png": {
             "frame": {
-                "x": 408,
+                "x": 476,
                 "y": 136,
                 "w": 34,
                 "h": 34
@@ -1066,7 +1082,7 @@
         },
         "normalActive:Art/2DArt/SkillIcons/passives/Tactician/TacticianNode.png": {
             "frame": {
-                "x": 442,
+                "x": 510,
                 "y": 136,
                 "w": 34,
                 "h": 34
@@ -1074,7 +1090,7 @@
         },
         "normalActive:Art/2DArt/SkillIcons/passives/Temporalist/TemporalistNode.png": {
             "frame": {
-                "x": 476,
+                "x": 544,
                 "y": 136,
                 "w": 34,
                 "h": 34
@@ -1082,7 +1098,7 @@
         },
         "normalActive:Art/2DArt/SkillIcons/passives/ThornsNode1.png": {
             "frame": {
-                "x": 510,
+                "x": 578,
                 "y": 136,
                 "w": 34,
                 "h": 34
@@ -1090,7 +1106,7 @@
         },
         "normalActive:Art/2DArt/SkillIcons/passives/Titan/TitanNode.png": {
             "frame": {
-                "x": 544,
+                "x": 612,
                 "y": 136,
                 "w": 34,
                 "h": 34
@@ -1098,7 +1114,7 @@
         },
         "normalActive:Art/2DArt/SkillIcons/passives/WarCryEffect.png": {
             "frame": {
-                "x": 578,
+                "x": 646,
                 "y": 136,
                 "w": 34,
                 "h": 34
@@ -1106,7 +1122,7 @@
         },
         "normalActive:Art/2DArt/SkillIcons/passives/Warbringer/WarbringerNode.png": {
             "frame": {
-                "x": 612,
+                "x": 680,
                 "y": 136,
                 "w": 34,
                 "h": 34
@@ -1114,7 +1130,7 @@
         },
         "normalActive:Art/2DArt/SkillIcons/passives/Wildspeaker/WildspeakerNode.png": {
             "frame": {
-                "x": 646,
+                "x": 714,
                 "y": 136,
                 "w": 34,
                 "h": 34
@@ -1122,7 +1138,7 @@
         },
         "normalActive:Art/2DArt/SkillIcons/passives/Witchhunter/WitchunterNode.png": {
             "frame": {
-                "x": 680,
+                "x": 748,
                 "y": 136,
                 "w": 34,
                 "h": 34
@@ -1130,7 +1146,7 @@
         },
         "normalActive:Art/2DArt/SkillIcons/passives/accuracydex.png": {
             "frame": {
-                "x": 714,
+                "x": 782,
                 "y": 136,
                 "w": 34,
                 "h": 34
@@ -1138,7 +1154,7 @@
         },
         "normalActive:Art/2DArt/SkillIcons/passives/accuracystr.png": {
             "frame": {
-                "x": 748,
+                "x": 816,
                 "y": 136,
                 "w": 34,
                 "h": 34
@@ -1146,7 +1162,7 @@
         },
         "normalActive:Art/2DArt/SkillIcons/passives/areaofeffect.png": {
             "frame": {
-                "x": 782,
+                "x": 850,
                 "y": 136,
                 "w": 34,
                 "h": 34
@@ -1154,7 +1170,7 @@
         },
         "normalActive:Art/2DArt/SkillIcons/passives/attackspeed.png": {
             "frame": {
-                "x": 816,
+                "x": 884,
                 "y": 136,
                 "w": 34,
                 "h": 34
@@ -1162,7 +1178,7 @@
         },
         "normalActive:Art/2DArt/SkillIcons/passives/attackspeedbow.png": {
             "frame": {
-                "x": 850,
+                "x": 918,
                 "y": 136,
                 "w": 34,
                 "h": 34
@@ -1170,7 +1186,7 @@
         },
         "normalActive:Art/2DArt/SkillIcons/passives/auraareaofeffect.png": {
             "frame": {
-                "x": 884,
+                "x": 952,
                 "y": 136,
                 "w": 34,
                 "h": 34
@@ -1178,7 +1194,7 @@
         },
         "normalActive:Art/2DArt/SkillIcons/passives/auraeffect.png": {
             "frame": {
-                "x": 918,
+                "x": 986,
                 "y": 136,
                 "w": 34,
                 "h": 34
@@ -1186,23 +1202,23 @@
         },
         "normalActive:Art/2DArt/SkillIcons/passives/avoidchilling.png": {
             "frame": {
-                "x": 952,
-                "y": 136,
+                "x": 0,
+                "y": 170,
                 "w": 34,
                 "h": 34
             }
         },
         "normalActive:Art/2DArt/SkillIcons/passives/axedmgspeed.png": {
             "frame": {
-                "x": 986,
-                "y": 136,
+                "x": 34,
+                "y": 170,
                 "w": 34,
                 "h": 34
             }
         },
         "normalActive:Art/2DArt/SkillIcons/passives/blankDex.png": {
             "frame": {
-                "x": 0,
+                "x": 68,
                 "y": 170,
                 "w": 34,
                 "h": 34
@@ -1210,7 +1226,7 @@
         },
         "normalActive:Art/2DArt/SkillIcons/passives/blankInt.png": {
             "frame": {
-                "x": 34,
+                "x": 102,
                 "y": 170,
                 "w": 34,
                 "h": 34
@@ -1218,7 +1234,7 @@
         },
         "normalActive:Art/2DArt/SkillIcons/passives/blankStr.png": {
             "frame": {
-                "x": 68,
+                "x": 136,
                 "y": 170,
                 "w": 34,
                 "h": 34
@@ -1226,7 +1242,7 @@
         },
         "normalActive:Art/2DArt/SkillIcons/passives/blockstr.png": {
             "frame": {
-                "x": 102,
+                "x": 170,
                 "y": 170,
                 "w": 34,
                 "h": 34
@@ -1234,7 +1250,7 @@
         },
         "normalActive:Art/2DArt/SkillIcons/passives/castspeed.png": {
             "frame": {
-                "x": 136,
+                "x": 204,
                 "y": 170,
                 "w": 34,
                 "h": 34
@@ -1242,7 +1258,7 @@
         },
         "normalActive:Art/2DArt/SkillIcons/passives/chargedex.png": {
             "frame": {
-                "x": 170,
+                "x": 238,
                 "y": 170,
                 "w": 34,
                 "h": 34
@@ -1250,7 +1266,7 @@
         },
         "normalActive:Art/2DArt/SkillIcons/passives/chargeint.png": {
             "frame": {
-                "x": 204,
+                "x": 272,
                 "y": 170,
                 "w": 34,
                 "h": 34
@@ -1258,7 +1274,7 @@
         },
         "normalActive:Art/2DArt/SkillIcons/passives/chargestr.png": {
             "frame": {
-                "x": 238,
+                "x": 306,
                 "y": 170,
                 "w": 34,
                 "h": 34
@@ -1266,7 +1282,7 @@
         },
         "normalActive:Art/2DArt/SkillIcons/passives/colddamage.png": {
             "frame": {
-                "x": 272,
+                "x": 340,
                 "y": 170,
                 "w": 34,
                 "h": 34
@@ -1274,7 +1290,7 @@
         },
         "normalActive:Art/2DArt/SkillIcons/passives/coldresist.png": {
             "frame": {
-                "x": 306,
+                "x": 374,
                 "y": 170,
                 "w": 34,
                 "h": 34
@@ -1282,7 +1298,7 @@
         },
         "normalActive:Art/2DArt/SkillIcons/passives/criticaldaggerint.png": {
             "frame": {
-                "x": 340,
+                "x": 408,
                 "y": 170,
                 "w": 34,
                 "h": 34
@@ -1290,7 +1306,7 @@
         },
         "normalActive:Art/2DArt/SkillIcons/passives/criticalstrikechance.png": {
             "frame": {
-                "x": 374,
+                "x": 442,
                 "y": 170,
                 "w": 34,
                 "h": 34
@@ -1298,7 +1314,7 @@
         },
         "normalActive:Art/2DArt/SkillIcons/passives/criticalstrikechance2.png": {
             "frame": {
-                "x": 408,
+                "x": 476,
                 "y": 170,
                 "w": 34,
                 "h": 34
@@ -1306,7 +1322,7 @@
         },
         "normalActive:Art/2DArt/SkillIcons/passives/damage.png": {
             "frame": {
-                "x": 442,
+                "x": 510,
                 "y": 170,
                 "w": 34,
                 "h": 34
@@ -1314,7 +1330,7 @@
         },
         "normalActive:Art/2DArt/SkillIcons/passives/damage_blue.png": {
             "frame": {
-                "x": 476,
+                "x": 544,
                 "y": 170,
                 "w": 34,
                 "h": 34
@@ -1322,7 +1338,7 @@
         },
         "normalActive:Art/2DArt/SkillIcons/passives/damageaxe.png": {
             "frame": {
-                "x": 510,
+                "x": 578,
                 "y": 170,
                 "w": 34,
                 "h": 34
@@ -1330,7 +1346,7 @@
         },
         "normalActive:Art/2DArt/SkillIcons/passives/damagedualwield.png": {
             "frame": {
-                "x": 544,
+                "x": 612,
                 "y": 170,
                 "w": 34,
                 "h": 34
@@ -1338,7 +1354,7 @@
         },
         "normalActive:Art/2DArt/SkillIcons/passives/damagespells.png": {
             "frame": {
-                "x": 578,
+                "x": 646,
                 "y": 170,
                 "w": 34,
                 "h": 34
@@ -1346,7 +1362,7 @@
         },
         "normalActive:Art/2DArt/SkillIcons/passives/damagestaff.png": {
             "frame": {
-                "x": 612,
+                "x": 680,
                 "y": 170,
                 "w": 34,
                 "h": 34
@@ -1354,7 +1370,7 @@
         },
         "normalActive:Art/2DArt/SkillIcons/passives/damagesword.png": {
             "frame": {
-                "x": 646,
+                "x": 714,
                 "y": 170,
                 "w": 34,
                 "h": 34
@@ -1362,7 +1378,7 @@
         },
         "normalActive:Art/2DArt/SkillIcons/passives/dmgreduction.png": {
             "frame": {
-                "x": 680,
+                "x": 748,
                 "y": 170,
                 "w": 34,
                 "h": 34
@@ -1370,7 +1386,7 @@
         },
         "normalActive:Art/2DArt/SkillIcons/passives/elementaldamage.png": {
             "frame": {
-                "x": 714,
+                "x": 782,
                 "y": 170,
                 "w": 34,
                 "h": 34
@@ -1378,7 +1394,7 @@
         },
         "normalActive:Art/2DArt/SkillIcons/passives/energyshield.png": {
             "frame": {
-                "x": 748,
+                "x": 816,
                 "y": 170,
                 "w": 34,
                 "h": 34
@@ -1386,7 +1402,7 @@
         },
         "normalActive:Art/2DArt/SkillIcons/passives/evade.png": {
             "frame": {
-                "x": 782,
+                "x": 850,
                 "y": 170,
                 "w": 34,
                 "h": 34
@@ -1394,7 +1410,7 @@
         },
         "normalActive:Art/2DArt/SkillIcons/passives/executioner.png": {
             "frame": {
-                "x": 816,
+                "x": 884,
                 "y": 170,
                 "w": 34,
                 "h": 34
@@ -1402,7 +1418,7 @@
         },
         "normalActive:Art/2DArt/SkillIcons/passives/firedamage.png": {
             "frame": {
-                "x": 850,
+                "x": 918,
                 "y": 170,
                 "w": 34,
                 "h": 34
@@ -1410,7 +1426,7 @@
         },
         "normalActive:Art/2DArt/SkillIcons/passives/firedamageint.png": {
             "frame": {
-                "x": 884,
+                "x": 952,
                 "y": 170,
                 "w": 34,
                 "h": 34
@@ -1418,7 +1434,7 @@
         },
         "normalActive:Art/2DArt/SkillIcons/passives/firedamagestr.png": {
             "frame": {
-                "x": 918,
+                "x": 986,
                 "y": 170,
                 "w": 34,
                 "h": 34
@@ -1426,23 +1442,23 @@
         },
         "normalActive:Art/2DArt/SkillIcons/passives/fireresist.png": {
             "frame": {
-                "x": 952,
-                "y": 170,
+                "x": 0,
+                "y": 204,
                 "w": 34,
                 "h": 34
             }
         },
         "normalActive:Art/2DArt/SkillIcons/passives/flaskdex.png": {
             "frame": {
-                "x": 986,
-                "y": 170,
+                "x": 34,
+                "y": 204,
                 "w": 34,
                 "h": 34
             }
         },
         "normalActive:Art/2DArt/SkillIcons/passives/flaskint.png": {
             "frame": {
-                "x": 0,
+                "x": 68,
                 "y": 204,
                 "w": 34,
                 "h": 34
@@ -1450,7 +1466,7 @@
         },
         "normalActive:Art/2DArt/SkillIcons/passives/flaskstr.png": {
             "frame": {
-                "x": 34,
+                "x": 102,
                 "y": 204,
                 "w": 34,
                 "h": 34
@@ -1458,7 +1474,7 @@
         },
         "normalActive:Art/2DArt/SkillIcons/passives/increasedrunspeeddex.png": {
             "frame": {
-                "x": 68,
+                "x": 136,
                 "y": 204,
                 "w": 34,
                 "h": 34
@@ -1466,7 +1482,7 @@
         },
         "normalActive:Art/2DArt/SkillIcons/passives/knockback.png": {
             "frame": {
-                "x": 102,
+                "x": 170,
                 "y": 204,
                 "w": 34,
                 "h": 34
@@ -1474,7 +1490,7 @@
         },
         "normalActive:Art/2DArt/SkillIcons/passives/legstrength.png": {
             "frame": {
-                "x": 136,
+                "x": 204,
                 "y": 204,
                 "w": 34,
                 "h": 34
@@ -1482,7 +1498,7 @@
         },
         "normalActive:Art/2DArt/SkillIcons/passives/life1.png": {
             "frame": {
-                "x": 170,
+                "x": 238,
                 "y": 204,
                 "w": 34,
                 "h": 34
@@ -1490,7 +1506,7 @@
         },
         "normalActive:Art/2DArt/SkillIcons/passives/lifeleech.png": {
             "frame": {
-                "x": 204,
+                "x": 272,
                 "y": 204,
                 "w": 34,
                 "h": 34
@@ -1498,7 +1514,7 @@
         },
         "normalActive:Art/2DArt/SkillIcons/passives/lifepercentage.png": {
             "frame": {
-                "x": 238,
+                "x": 306,
                 "y": 204,
                 "w": 34,
                 "h": 34
@@ -1506,7 +1522,7 @@
         },
         "normalActive:Art/2DArt/SkillIcons/passives/lightningint.png": {
             "frame": {
-                "x": 272,
+                "x": 340,
                 "y": 204,
                 "w": 34,
                 "h": 34
@@ -1514,7 +1530,7 @@
         },
         "normalActive:Art/2DArt/SkillIcons/passives/lightningstr.png": {
             "frame": {
-                "x": 306,
+                "x": 374,
                 "y": 204,
                 "w": 34,
                 "h": 34
@@ -1522,7 +1538,7 @@
         },
         "normalActive:Art/2DArt/SkillIcons/passives/macedmg.png": {
             "frame": {
-                "x": 340,
+                "x": 408,
                 "y": 204,
                 "w": 34,
                 "h": 34
@@ -1530,7 +1546,7 @@
         },
         "normalActive:Art/2DArt/SkillIcons/passives/mana.png": {
             "frame": {
-                "x": 374,
+                "x": 442,
                 "y": 204,
                 "w": 34,
                 "h": 34
@@ -1538,7 +1554,7 @@
         },
         "normalActive:Art/2DArt/SkillIcons/passives/manaregeneration.png": {
             "frame": {
-                "x": 408,
+                "x": 476,
                 "y": 204,
                 "w": 34,
                 "h": 34
@@ -1546,7 +1562,7 @@
         },
         "normalActive:Art/2DArt/SkillIcons/passives/manastr.png": {
             "frame": {
-                "x": 442,
+                "x": 510,
                 "y": 204,
                 "w": 34,
                 "h": 34
@@ -1554,7 +1570,7 @@
         },
         "normalActive:Art/2DArt/SkillIcons/passives/minionattackspeed.png": {
             "frame": {
-                "x": 476,
+                "x": 544,
                 "y": 204,
                 "w": 34,
                 "h": 34
@@ -1562,7 +1578,7 @@
         },
         "normalActive:Art/2DArt/SkillIcons/passives/miniondamageBlue.png": {
             "frame": {
-                "x": 510,
+                "x": 578,
                 "y": 204,
                 "w": 34,
                 "h": 34
@@ -1570,7 +1586,7 @@
         },
         "normalActive:Art/2DArt/SkillIcons/passives/minionlife.png": {
             "frame": {
-                "x": 544,
+                "x": 612,
                 "y": 204,
                 "w": 34,
                 "h": 34
@@ -1578,7 +1594,7 @@
         },
         "normalActive:Art/2DArt/SkillIcons/passives/minionstr.png": {
             "frame": {
-                "x": 578,
+                "x": 646,
                 "y": 204,
                 "w": 34,
                 "h": 34
@@ -1586,7 +1602,7 @@
         },
         "normalActive:Art/2DArt/SkillIcons/passives/onehanddamage.png": {
             "frame": {
-                "x": 612,
+                "x": 680,
                 "y": 204,
                 "w": 34,
                 "h": 34
@@ -1594,7 +1610,7 @@
         },
         "normalActive:Art/2DArt/SkillIcons/passives/plusattribute.png": {
             "frame": {
-                "x": 646,
+                "x": 714,
                 "y": 204,
                 "w": 34,
                 "h": 34
@@ -1602,7 +1618,7 @@
         },
         "normalActive:Art/2DArt/SkillIcons/passives/plusdexterity.png": {
             "frame": {
-                "x": 680,
+                "x": 748,
                 "y": 204,
                 "w": 34,
                 "h": 34
@@ -1610,7 +1626,7 @@
         },
         "normalActive:Art/2DArt/SkillIcons/passives/plusintelligence.png": {
             "frame": {
-                "x": 714,
+                "x": 782,
                 "y": 204,
                 "w": 34,
                 "h": 34
@@ -1618,7 +1634,7 @@
         },
         "normalActive:Art/2DArt/SkillIcons/passives/plusintelligencedexterity.png": {
             "frame": {
-                "x": 748,
+                "x": 816,
                 "y": 204,
                 "w": 34,
                 "h": 34
@@ -1626,7 +1642,7 @@
         },
         "normalActive:Art/2DArt/SkillIcons/passives/plusstrength.png": {
             "frame": {
-                "x": 782,
+                "x": 850,
                 "y": 204,
                 "w": 34,
                 "h": 34
@@ -1634,7 +1650,7 @@
         },
         "normalActive:Art/2DArt/SkillIcons/passives/plusstrengthdexterity.png": {
             "frame": {
-                "x": 816,
+                "x": 884,
                 "y": 204,
                 "w": 34,
                 "h": 34
@@ -1642,7 +1658,7 @@
         },
         "normalActive:Art/2DArt/SkillIcons/passives/plusstrengthintelligence.png": {
             "frame": {
-                "x": 850,
+                "x": 918,
                 "y": 204,
                 "w": 34,
                 "h": 34
@@ -1650,7 +1666,7 @@
         },
         "normalActive:Art/2DArt/SkillIcons/passives/projectilespeed.png": {
             "frame": {
-                "x": 884,
+                "x": 952,
                 "y": 204,
                 "w": 34,
                 "h": 34
@@ -1658,7 +1674,7 @@
         },
         "normalActive:Art/2DArt/SkillIcons/passives/shieldblock.png": {
             "frame": {
-                "x": 918,
+                "x": 986,
                 "y": 204,
                 "w": 34,
                 "h": 34
@@ -1666,29 +1682,13 @@
         },
         "normalActive:Art/2DArt/SkillIcons/passives/spellcritical.png": {
             "frame": {
-                "x": 952,
-                "y": 204,
-                "w": 34,
-                "h": 34
-            }
-        },
-        "normalActive:Art/2DArt/SkillIcons/passives/stun2h.png": {
-            "frame": {
-                "x": 986,
-                "y": 204,
-                "w": 34,
-                "h": 34
-            }
-        },
-        "normalActive:Art/2DArt/SkillIcons/passives/stunstr.png": {
-            "frame": {
                 "x": 0,
                 "y": 238,
                 "w": 34,
                 "h": 34
             }
         },
-        "normalActive:Art/2DArt/SkillIcons/passives/tempint.png": {
+        "normalActive:Art/2DArt/SkillIcons/passives/stun2h.png": {
             "frame": {
                 "x": 34,
                 "y": 238,
@@ -1696,7 +1696,7 @@
                 "h": 34
             }
         },
-        "normalActive:Art/2DArt/SkillIcons/passives/totemandbrandlife.png": {
+        "normalActive:Art/2DArt/SkillIcons/passives/stunstr.png": {
             "frame": {
                 "x": 68,
                 "y": 238,
@@ -1704,7 +1704,7 @@
                 "h": 34
             }
         },
-        "normalActive:Art/2DArt/SkillIcons/passives/trapdamage.png": {
+        "normalActive:Art/2DArt/SkillIcons/passives/tempint.png": {
             "frame": {
                 "x": 102,
                 "y": 238,
@@ -1712,7 +1712,7 @@
                 "h": 34
             }
         },
-        "normalActive:Art/2DArt/SkillIcons/passives/trapsmax.png": {
+        "normalActive:Art/2DArt/SkillIcons/passives/totemandbrandlife.png": {
             "frame": {
                 "x": 136,
                 "y": 238,
@@ -1720,7 +1720,7 @@
                 "h": 34
             }
         },
-        "normalActive:Art/2DArt/SkillIcons/passives/BattleRouse.png": {
+        "normalActive:Art/2DArt/SkillIcons/passives/trapdamage.png": {
             "frame": {
                 "x": 170,
                 "y": 238,
@@ -1728,7 +1728,7 @@
                 "h": 34
             }
         },
-        "normalActive:Art/2DArt/SkillIcons/passives/IncreasedManaCostNotable.png": {
+        "normalActive:Art/2DArt/SkillIcons/passives/trapsmax.png": {
             "frame": {
                 "x": 204,
                 "y": 238,
@@ -1736,7 +1736,7 @@
                 "h": 34
             }
         },
-        "normalActive:Art/2DArt/SkillIcons/passives/Lich/AbyssalLichNode.png": {
+        "normalActive:Art/2DArt/SkillIcons/passives/BattleRouse.png": {
             "frame": {
                 "x": 238,
                 "y": 238,
@@ -1744,7 +1744,7 @@
                 "h": 34
             }
         },
-        "normalActive:Art/2DArt/SkillIcons/passives/PathFinder/PathfinderAdditionalPoints.png": {
+        "normalActive:Art/2DArt/SkillIcons/passives/IncreasedManaCostNotable.png": {
             "frame": {
                 "x": 272,
                 "y": 238,
@@ -1752,7 +1752,7 @@
                 "h": 34
             }
         },
-        "normalActive:Art/2DArt/SkillIcons/passives/StanceNotableSwitching.png": {
+        "normalActive:Art/2DArt/SkillIcons/passives/Lich/AbyssalLichNode.png": {
             "frame": {
                 "x": 306,
                 "y": 238,
@@ -1760,7 +1760,7 @@
                 "h": 34
             }
         },
-        "normalActive:Art/2DArt/SkillIcons/passives/damagedualwieldgreen.png": {
+        "normalActive:Art/2DArt/SkillIcons/passives/PathFinder/PathfinderAdditionalPoints.png": {
             "frame": {
                 "x": 340,
                 "y": 238,
@@ -1771,14 +1771,6 @@
         "normalActive:Art/2DArt/SkillIcons/passives/eagleeye.png": {
             "frame": {
                 "x": 374,
-                "y": 238,
-                "w": 34,
-                "h": 34
-            }
-        },
-        "normalActive:Art/2DArt/SkillIcons/passives/legendaryswordsman.png": {
-            "frame": {
-                "x": 408,
                 "y": 238,
                 "w": 34,
                 "h": 34
@@ -5147,22 +5139,6 @@
         "notableActive:Art/2DArt/SkillIcons/passives/StunAvoidNotable.png": {
             "frame": {
                 "x": 0,
-                "y": 1252,
-                "w": 49,
-                "h": 49
-            }
-        },
-        "notableActive:Art/2DArt/SkillIcons/passives/fencing.png": {
-            "frame": {
-                "x": 49,
-                "y": 1252,
-                "w": 49,
-                "h": 49
-            }
-        },
-        "notableActive:Art/2DArt/SkillIcons/passives/fending.png": {
-            "frame": {
-                "x": 98,
                 "y": 1252,
                 "w": 49,
                 "h": 49
