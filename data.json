@@ -77783,7 +77783,7 @@
                 "PotentLiquidContempt"
             ],
             "stats": [
-                "[Jewel] Socket"
+                "[SinisterJewelSockets|Sinister] [Jewel] Socket"
             ],
             "group": 637,
             "orbit": 0,
@@ -91087,13 +91087,13 @@
         "24060": {
             "id": "infusion12",
             "skill": 24060,
-            "name": "Infusion Consumption Chance",
+            "name": "Infused Spell Damage",
             "icon": "Art/2DArt/SkillIcons/passives/InstillationsNode1.png",
             "keystonesInRadius": [
                 42680
             ],
             "stats": [
-                "Skills have 5% chance to not remove [ElementalInfusion|Elemental Infusions] but still count as consuming them"
+                "15% increased [Spell] Damage if you have consumed an [ElementalInfusion|Elemental Infusion] [Recently]"
             ],
             "group": 762,
             "orbit": 1,
@@ -91114,13 +91114,13 @@
         "3091": {
             "id": "infusion13",
             "skill": 3091,
-            "name": "Infusion Consumption Chance",
+            "name": "Infused Spell Damage",
             "icon": "Art/2DArt/SkillIcons/passives/InstillationsNode1.png",
             "keystonesInRadius": [
                 42680
             ],
             "stats": [
-                "Skills have 5% chance to not remove [ElementalInfusion|Elemental Infusions] but still count as consuming them"
+                "15% increased [Spell] Damage if you have consumed an [ElementalInfusion|Elemental Infusion] [Recently]"
             ],
             "group": 762,
             "orbit": 1,
@@ -91141,13 +91141,13 @@
         "18793": {
             "id": "infusion14",
             "skill": 18793,
-            "name": "Infused Spell Damage",
+            "name": "Infusion Consumption Chance",
             "icon": "Art/2DArt/SkillIcons/passives/InstillationsNode1.png",
             "keystonesInRadius": [
                 42680
             ],
             "stats": [
-                "15% increased [Spell] Damage if you have consumed an [ElementalInfusion|Elemental Infusion] [Recently]"
+                "Skills have 5% chance to not remove [ElementalInfusion|Elemental Infusions] but still count as consuming them"
             ],
             "group": 762,
             "orbit": 7,
@@ -91168,13 +91168,13 @@
         "33639": {
             "id": "infusion15",
             "skill": 33639,
-            "name": "Infused Spell Damage",
+            "name": "Infusion Consumption Chance",
             "icon": "Art/2DArt/SkillIcons/passives/InstillationsNode1.png",
             "keystonesInRadius": [
                 42680
             ],
             "stats": [
-                "15% increased [Spell] Damage if you have consumed an [ElementalInfusion|Elemental Infusion] [Recently]"
+                "Skills have 5% chance to not remove [ElementalInfusion|Elemental Infusions] but still count as consuming them"
             ],
             "group": 762,
             "orbit": 7,
@@ -94174,8 +94174,9 @@
                 "LiquidDisgust"
             ],
             "stats": [
+                "15% reduced Effect of [Chill|Chill] on you",
                 "[Gain] 6% of [Cold] damage as Extra [Lightning] damage",
-                "Unaffected by [ChilledGround|Chilled Ground]"
+                "15% increased [BuffMagnitude|Magnitude] of [Chill] you inflict"
             ],
             "group": 792,
             "orbit": 0,
@@ -95141,7 +95142,8 @@
             ],
             "stats": [
                 "[Gain] 6% of [Lightning] damage as Extra [Cold] damage",
-                "Unaffected by [ShockedGround|Shocked Ground]"
+                "15% reduced [BuffEffect|effect] of [Shock|Shock] on you",
+                "15% increased [BuffMagnitude|Magnitude] of [Shock|Shock] you inflict"
             ],
             "group": 799,
             "orbit": 0,
@@ -163463,6 +163465,7 @@
                             {
                                 "stats": [
                                     "[Conversion|Converts] 60% of [Physical] damage to [Lightning] damage",
+                                    "[Trigger|Triggered] when you [Attack], creating one Stag per Vivid Wisp",
                                     "50% more chance to [Shock]",
                                     "Shockwave radius is 2 metres",
                                     "Stags leap 4 times",
