@@ -21048,7 +21048,7 @@
             "icon": "Art/2DArt/SkillIcons/passives/Oracle/OracleNode.png",
             "ascendancyId": "Druid1",
             "stats": [
-                "[HitDamage|Hits] against you have 12% reduced [CriticalDamageBonus|Critical Damage Bonus]"
+                "[Hit|Hits] against you have 12% reduced [CriticalDamageBonus|Critical Damage Bonus]"
             ],
             "group": 2,
             "orbit": 0,
@@ -21515,14 +21515,14 @@
                         "type": 5
                     }
                 ],
-                "secDescrText": "While active, gains [Energy|Energy] when you [HitDamage|Hit] enemies with [Melee] [Attack|Attacks] and triggers socketed [Fire] spells on reaching maximum [Energy|Energy].",
+                "secDescrText": "While active, gains [Energy|Energy] when you [Hit] enemies with [Melee] [Attack|Attacks] and triggers socketed [Fire] spells on reaching maximum [Energy|Energy].",
                 "gemTabs": [
                     {
                         "name": null,
                         "pages": [
                             {
                                 "stats": [
-                                    "Gains 3 [Energy] per [Power] of enemies you [HitDamage|Hit] with [Melee] [Attack|Attacks], modified by the percentage of the enemy's [AilmentThreshold|Ailment Threshold] the [HitDamage|Hit] will deal",
+                                    "Gains 3 [Energy] per [Power] of enemies you [Hit] with [Melee] [Attack|Attacks], modified by the percentage of the enemy's [AilmentThreshold|Ailment Threshold] the [Hit] will deal",
                                     "Can only socket [Fire] [Spell|Spells]\nTriggers all Socketed [Spell|Spells] and loses all [Energy|Energy] on reaching maximum [Energy|Energy]"
                                 ],
                                 "skillName": "Fire Spell on Melee Hit"
@@ -21728,7 +21728,7 @@
             "ascendancyId": "Druid1",
             "stats": [
                 "Enemy [Critical|Critical Hit Chance] against you is [Unlucky]",
-                "Damage of Enemies [HitDamage|Hitting] you is [Unlucky]"
+                "Damage of Enemies [Hit|Hitting] you is [Unlucky]"
             ],
             "group": 12,
             "orbit": 0,
@@ -21867,7 +21867,7 @@
                         "type": 96
                     }
                 ],
-                "secDescrText": "[Channelling|Channel] to temper your main hand [Melee] [MartialWeapon|Martial Weapon]. Each hit of the hammer against the anvil [Empowered|Empowers] subsequent [Attack|Attacks] to Combust when [HitDamage|Hitting] enemies.",
+                "secDescrText": "[Channelling|Channel] to temper your main hand [Melee] [MartialWeapon|Martial Weapon]. Each hit of the hammer against the anvil [Empowered|Empowers] subsequent [Attack|Attacks] to Combust when [Hit|Hitting] enemies.",
                 "gemTabs": [
                     {
                         "name": "Temper Weapon",
@@ -21876,7 +21876,7 @@
                                 "stats": [
                                     "Maximum of 12 [Empowered] [Attack|Attacks]",
                                     "Supported Skills Cost nothing",
-                                    "While [Channelling] each strike of the anvil [Empowered|Empowers] your next 3 [Melee] [Attack|Attacks]\n[Empowered] [Attack|Attacks] [Trigger] Combust on [HitDamage|Hit]"
+                                    "While [Channelling] each strike of the anvil [Empowered|Empowers] your next 3 [Melee] [Attack|Attacks]\n[Empowered] [Attack|Attacks] [Trigger] Combust on [Hit]"
                                 ],
                                 "skillName": "Temper Weapon"
                             }
@@ -22100,7 +22100,7 @@
             "hideConnection": true,
             "ascendancyId": "Warrior3",
             "stats": [
-                "Body Armour grants [HitDamage|Hits] against you have 100% reduced [CriticalDamageBonus|Critical Damage Bonus]"
+                "Body Armour grants [Hit|Hits] against you have 100% reduced [CriticalDamageBonus|Critical Damage Bonus]"
             ],
             "group": 20,
             "orbit": 0,
@@ -22147,7 +22147,7 @@
             "isNotable": true,
             "ascendancyId": "Druid1",
             "stats": [
-                "[HitDamage|Hit] damage is taken from Mana before Life if your current Mana is higher than your current Life",
+                "[Hit] damage is taken from Mana before Life if your current Mana is higher than your current Life",
                 "15% less maximum Life",
                 "15% less maximum Mana"
             ],
@@ -22339,7 +22339,7 @@
             "isNotable": true,
             "ascendancyId": "Warrior2",
             "stats": [
-                "[ArmourBreak|Break Armour] equal to 10% of [HitDamage|Hit Damage] dealt"
+                "[ArmourBreak|Break Armour] equal to 10% of [Hit|Hit Damage] dealt"
             ],
             "group": 29,
             "orbit": 0,
@@ -22390,7 +22390,7 @@
             "isNotable": true,
             "ascendancyId": "Warrior2",
             "stats": [
-                "[ArmourBreak|Fully Broken Armour] you inflict increases all Damage Taken from [HitDamage|Hits] instead",
+                "[ArmourBreak|Fully Broken Armour] you inflict increases all Damage Taken from [Hit|Hits] instead",
                 "You can [ArmourOverbreak|Break Enemy Armour to below 0]"
             ],
             "group": 31,
@@ -22415,7 +22415,7 @@
             "hideConnection": true,
             "ascendancyId": "Warrior3",
             "stats": [
-                "Body Armour grants 25% of [Physical] Damage from [HitDamage|Hits] taken as [Fire] Damage"
+                "Body Armour grants 25% of [Physical] Damage from [Hit|Hits] taken as [Fire] Damage"
             ],
             "group": 32,
             "orbit": 0,
@@ -22643,7 +22643,7 @@
                         "displayMode": 0
                     }
                 ],
-                "secDescrText": "Send out a temporal [Nova] to take advantage of enemies' moment of vulnerability. [HitDamage|Hitting] enemies that are [PrimedStun|Primed for Stun], [PrimedElectrocution|Electrocution], or [PrimedFreeze|Freeze] causes a visage of them to appear, lasting as long as the original target would have been affected by the form of [Immobilised|Immobilisation] used to create the visage. A portion of the damage dealt to visages is also dealt to the original.",
+                "secDescrText": "Send out a temporal [Nova] to take advantage of enemies' moment of vulnerability. [Hit|Hitting] enemies that are [PrimedStun|Primed for Stun], [PrimedElectrocution|Electrocution], or [PrimedFreeze|Freeze] causes a visage of them to appear, lasting as long as the original target would have been affected by the form of [Immobilised|Immobilisation] used to create the visage. A portion of the damage dealt to visages is also dealt to the original.",
                 "gemTabs": [
                     {
                         "name": "Moment of Vulnerability",
@@ -22815,7 +22815,7 @@
             "isNotable": true,
             "ascendancyId": "Warrior2",
             "stats": [
-                "20% of Damage from [HitDamage|Hits] is taken from your nearest [Totem|Totem's] Life before you"
+                "20% of Damage from [Hit|Hits] is taken from your nearest [Totem|Totem's] Life before you"
             ],
             "group": 40,
             "orbit": 0,
@@ -23406,7 +23406,7 @@
             "isNotable": true,
             "ascendancyId": "Warrior2",
             "stats": [
-                "You take 20% of damage from [Block|Blocked] [HitDamage|Hits]",
+                "You take 20% of damage from [Block|Blocked] [Hit|Hits]",
                 "Maximum [Block] chance is 75%"
             ],
             "group": 60,
@@ -23888,7 +23888,7 @@
             "ascendancyId": "Druid2",
             "stats": [
                 "10% less [ElementalDamage|Elemental Damage] taken",
-                "[Adaptation|Adapt] to the highest [ElementalDamage|Elemental Damage Type] of each [HitDamage|Hit] you take",
+                "[Adaptation|Adapt] to the highest [ElementalDamage|Elemental Damage Type] of each [Hit] you take",
                 "10% less Damage taken of each [ElementalDamage|Elemental Damage Type] per matching [Adaptation]"
             ],
             "group": 65,
@@ -24193,7 +24193,7 @@
                         "displayMode": 0
                     }
                 ],
-                "secDescrText": "Build [Glory] by [HitDamage|Hitting] enemies with [ElementalDamage|Elemental] damage. When you have maximum [Glory], you may become the walking Apocalypse for a duration, [Trigger|Triggering] one of multiple powerful [ElementalDamage|Elemental] Skills at an interval while this [Buff] lasts.",
+                "secDescrText": "Build [Glory] by [Hit|Hitting] enemies with [ElementalDamage|Elemental] damage. When you have maximum [Glory], you may become the walking Apocalypse for a duration, [Trigger|Triggering] one of multiple powerful [ElementalDamage|Elemental] Skills at an interval while this [Buff] lasts.",
                 "gemTabs": [
                     {
                         "name": "Apocalypse",
@@ -24790,7 +24790,7 @@
             "ascendancyId": "Warrior1",
             "stats": [
                 "25% more Damage against [HeavyStun|Heavy Stunned] Enemies",
-                "Your [HitDamage|Hits] are [CrushingBlow|Crushing Blows]"
+                "Your [Hit|Hits] are [CrushingBlow|Crushing Blows]"
             ],
             "group": 79,
             "orbit": 0,
@@ -27618,7 +27618,7 @@
             },
             "stats": [
                 "[Companion|Companions] have 20% increased maximum Life",
-                "5% of Damage from [HitDamage|Hits] is taken from your Damageable [Companion]'s Life before you"
+                "5% of Damage from [Hit|Hits] is taken from your Damageable [Companion]'s Life before you"
             ],
             "group": 89,
             "orbit": 5,
@@ -28446,7 +28446,7 @@
                 51749
             ],
             "stats": [
-                "20% increased [Armour] if you have been [HitDamage|Hit] [Recently]"
+                "20% increased [Armour] if you have been [Hit] [Recently]"
             ],
             "group": 94,
             "orbit": 3,
@@ -28502,7 +28502,7 @@
             "name": "Armour if Hit",
             "icon": "Art/2DArt/SkillIcons/passives/dmgreduction.png",
             "stats": [
-                "20% increased [Armour] if you have been [HitDamage|Hit] [Recently]"
+                "20% increased [Armour] if you have been [Hit] [Recently]"
             ],
             "group": 94,
             "orbit": 2,
@@ -28749,7 +28749,7 @@
             ],
             "stats": [
                 "80% increased [Flammability] [BuffMagnitude|Magnitude]",
-                "40% increased Damage with [HitDamage|Hits] against [Ignite|Ignited] Enemies"
+                "40% increased Damage with [Hit|Hits] against [Ignite|Ignited] Enemies"
             ],
             "group": 97,
             "orbit": 0,
@@ -29467,7 +29467,7 @@
                 37484
             ],
             "stats": [
-                "Gain 1 [Rage|Rage] on [Melee] [HitDamage|Hit]"
+                "Gain 1 [Rage|Rage] on [Melee] [Hit]"
             ],
             "group": 112,
             "orbit": 3,
@@ -29494,7 +29494,7 @@
                 37484
             ],
             "stats": [
-                "Gain 1 [Rage|Rage] on [Melee] [HitDamage|Hit]"
+                "Gain 1 [Rage|Rage] on [Melee] [Hit]"
             ],
             "group": 112,
             "orbit": 7,
@@ -29521,7 +29521,7 @@
                 37484
             ],
             "stats": [
-                "Gain 1 [Rage|Rage] on [Melee] [HitDamage|Hit]"
+                "Gain 1 [Rage|Rage] on [Melee] [Hit]"
             ],
             "group": 112,
             "orbit": 7,
@@ -31888,7 +31888,7 @@
                 51749
             ],
             "stats": [
-                "Gain 2 [Rage] when [HitDamage|Hit] by an Enemy"
+                "Gain 2 [Rage] when [Hit] by an Enemy"
             ],
             "group": 143,
             "orbit": 7,
@@ -31914,7 +31914,7 @@
                 51749
             ],
             "stats": [
-                "Gain 2 [Rage] when [HitDamage|Hit] by an Enemy"
+                "Gain 2 [Rage] when [Hit] by an Enemy"
             ],
             "group": 143,
             "orbit": 7,
@@ -31941,7 +31941,7 @@
                 51749
             ],
             "stats": [
-                "Gain 2 [Rage] when [HitDamage|Hit] by an Enemy"
+                "Gain 2 [Rage] when [Hit] by an Enemy"
             ],
             "group": 143,
             "orbit": 7,
@@ -31973,7 +31973,7 @@
                 "LiquidDespair"
             ],
             "stats": [
-                "Gain 5 [Rage] when [HitDamage|Hit] by an Enemy",
+                "Gain 5 [Rage] when [Hit] by an Enemy",
                 "Every [Rage] also grants 1% increased [Armour]"
             ],
             "group": 143,
@@ -32136,7 +32136,7 @@
                 51749
             ],
             "stats": [
-                "15% increased [Melee] Damage with [HitDamage|Hits] at [CloseRange|Close Range]"
+                "15% increased [Melee] Damage with [Hit|Hits] at [CloseRange|Close Range]"
             ],
             "group": 145,
             "orbit": 3,
@@ -32163,7 +32163,7 @@
                 51749
             ],
             "stats": [
-                "15% increased [Melee] Damage with [HitDamage|Hits] at [CloseRange|Close Range]"
+                "15% increased [Melee] Damage with [Hit|Hits] at [CloseRange|Close Range]"
             ],
             "group": 145,
             "orbit": 3,
@@ -32223,7 +32223,7 @@
                 "LiquidEnvy"
             ],
             "stats": [
-                "40% increased [Melee] Damage with [HitDamage|Hits] at [CloseRange|Close Range]"
+                "40% increased [Melee] Damage with [Hit|Hits] at [CloseRange|Close Range]"
             ],
             "group": 145,
             "orbit": 3,
@@ -33094,7 +33094,7 @@
                 "DilutedLiquidGuilt"
             ],
             "stats": [
-                "+1% to [MaximumResistances|Maximum Resistances] of each [ElementalDamage|Elemental] Damage Type you have been [HitDamage|Hit] with [Recently]"
+                "+1% to [MaximumResistances|Maximum Resistances] of each [ElementalDamage|Elemental] Damage Type you have been [Hit] with [Recently]"
             ],
             "group": 155,
             "orbit": 7,
@@ -33958,7 +33958,7 @@
                 51749
             ],
             "stats": [
-                "20% increased [Armour|Armour] if you haven't been [HitDamage|Hit] [Recently|Recently]"
+                "20% increased [Armour|Armour] if you haven't been [Hit] [Recently|Recently]"
             ],
             "group": 163,
             "orbit": 7,
@@ -33985,7 +33985,7 @@
                 51749
             ],
             "stats": [
-                "20% increased [Armour] if you have been [HitDamage|Hit] [Recently]"
+                "20% increased [Armour] if you have been [Hit] [Recently]"
             ],
             "group": 163,
             "orbit": 7,
@@ -35424,7 +35424,7 @@
             ],
             "stats": [
                 "[Blind] Enemies 3 metres in front of you every 0.25 seconds while your [Shield] is raised",
-                "Raise Shield inflicts [Parry|Parried] for 2 seconds on [HitDamage|Hit]"
+                "Raise Shield inflicts [Parry|Parried] for 2 seconds on [Hit]"
             ],
             "group": 181,
             "orbit": 0,
@@ -35710,7 +35710,7 @@
                 32349
             ],
             "stats": [
-                "Gain 2 [Rage|Rage] on [Melee|Melee] [Axe|Axe] [HitDamage|Hit]"
+                "Gain 2 [Rage|Rage] on [Melee|Melee] [Axe|Axe] [Hit]"
             ],
             "group": 186,
             "orbit": 3,
@@ -35737,7 +35737,7 @@
                 32349
             ],
             "stats": [
-                "Gain 1 [Rage|Rage] on [Melee|Melee] [Axe|Axe] [HitDamage|Hit]"
+                "Gain 1 [Rage|Rage] on [Melee|Melee] [Axe|Axe] [Hit]"
             ],
             "group": 186,
             "orbit": 3,
@@ -35848,7 +35848,7 @@
                 32349
             ],
             "stats": [
-                "Gain 1 [Rage|Rage] on [Melee|Melee] [Axe|Axe] [HitDamage|Hit]"
+                "Gain 1 [Rage|Rage] on [Melee|Melee] [Axe|Axe] [Hit]"
             ],
             "group": 186,
             "orbit": 2,
@@ -36013,7 +36013,7 @@
             "stats": [
                 "Recover 20 Life when you [Block]",
                 "+2% to maximum [Block] chance",
-                "80% less [Knockback] Distance for [Block|Blocked] [HitDamage|Hits]"
+                "80% less [Knockback] Distance for [Block|Blocked] [Hit|Hits]"
             ],
             "group": 187,
             "orbit": 3,
@@ -36778,7 +36778,7 @@
             "name": "Rage on Hit",
             "icon": "Art/2DArt/SkillIcons/passives/Rage.png",
             "stats": [
-                "Gain 1 [Rage|Rage] on [Melee] [HitDamage|Hit]"
+                "Gain 1 [Rage|Rage] on [Melee] [Hit]"
             ],
             "group": 190,
             "orbit": 3,
@@ -36886,7 +36886,7 @@
             "name": "Rage on Hit",
             "icon": "Art/2DArt/SkillIcons/passives/Rage.png",
             "stats": [
-                "Gain 1 [Rage|Rage] on [Melee] [HitDamage|Hit]"
+                "Gain 1 [Rage|Rage] on [Melee] [Hit]"
             ],
             "group": 190,
             "orbit": 0,
@@ -37194,7 +37194,7 @@
                 "ascendancy": "Druid1"
             },
             "stats": [
-                "30% chance to [Impale] on [Spell] [HitDamage|Hit]"
+                "30% chance to [Impale] on [Spell] [Hit]"
             ],
             "group": 191,
             "orbit": 6,
@@ -37406,7 +37406,7 @@
                 55048
             ],
             "stats": [
-                "Gain 2 [Rage] when [HitDamage|Hit] by an Enemy"
+                "Gain 2 [Rage] when [Hit] by an Enemy"
             ],
             "group": 196,
             "orbit": 2,
@@ -37433,7 +37433,7 @@
                 55048
             ],
             "stats": [
-                "Gain 2 [Rage] when [HitDamage|Hit] by an Enemy"
+                "Gain 2 [Rage] when [Hit] by an Enemy"
             ],
             "group": 196,
             "orbit": 7,
@@ -37460,7 +37460,7 @@
                 55048
             ],
             "stats": [
-                "Gain 2 [Rage] when [HitDamage|Hit] by an Enemy"
+                "Gain 2 [Rage] when [Hit] by an Enemy"
             ],
             "group": 196,
             "orbit": 2,
@@ -40147,7 +40147,7 @@
                 "ConcentratedLiquidFear"
             ],
             "stats": [
-                "25% increased [Armour] if you've [HitDamage|Hit] an Enemy with a [Melee|Melee Attack] [Recently]",
+                "25% increased [Armour] if you've [Hit] an Enemy with a [Melee|Melee Attack] [Recently]",
                 "50% increased [Melee|Melee Damage] against [Immobilised] Enemies"
             ],
             "group": 222,
@@ -40848,7 +40848,7 @@
             ],
             "stats": [
                 "25% increased [CriticalDamageBonus|Critical Damage Bonus]",
-                "[HitDamage|Hits] against you have 25% reduced [CriticalDamageBonus|Critical Damage Bonus]"
+                "[Hit|Hits] against you have 25% reduced [CriticalDamageBonus|Critical Damage Bonus]"
             ],
             "group": 228,
             "orbit": 3,
@@ -42357,7 +42357,7 @@
                 "ascendancy": "Druid1"
             },
             "stats": [
-                "7% chance to Avoid Death from [HitDamage|Hits]"
+                "7% chance to Avoid Death from [Hit|Hits]"
             ],
             "group": 243,
             "orbit": 2,
@@ -43160,7 +43160,7 @@
                 "ConcentratedLiquidFear"
             ],
             "stats": [
-                "Your [HitDamage|Hits] cannot be [Evasion|Evaded] by [HeavyStun|Heavy Stunned] Enemies"
+                "Your [Hit|Hits] cannot be [Evasion|Evaded] by [HeavyStun|Heavy Stunned] Enemies"
             ],
             "group": 251,
             "orbit": 7,
@@ -44280,7 +44280,7 @@
                 "LiquidDespair"
             ],
             "stats": [
-                "100% chance to [Daze] Enemies whose [HitDamage|Hits] you [Block] with a raised [Shield]"
+                "100% chance to [Daze] Enemies whose [Hit|Hits] you [Block] with a raised [Shield]"
             ],
             "group": 260,
             "orbit": 4,
@@ -45898,7 +45898,7 @@
                 "DilutedLiquidIre"
             ],
             "stats": [
-                "30% increased Damage with [HitDamage|Hits] against [Ignite|Ignited] Enemies"
+                "30% increased Damage with [Hit|Hits] against [Ignite|Ignited] Enemies"
             ],
             "group": 275,
             "orbit": 4,
@@ -47404,7 +47404,7 @@
                         "type": 5
                     }
                 ],
-                "secDescrText": "Passively manifests a protective barrier which takes [ElementalDamage|Elemental Damage] from [HitDamage|Hits] for you until depleted. The barrier instantly recharges to its full value a short time after it stops taking damage or is fully depleted.",
+                "secDescrText": "Passively manifests a protective barrier which takes [ElementalDamage|Elemental Damage] from [Hit|Hits] for you until depleted. The barrier instantly recharges to its full value a short time after it stops taking damage or is fully depleted.",
                 "gemTabs": [
                     {
                         "name": "Sorcery Ward",
@@ -47412,7 +47412,7 @@
                             {
                                 "stats": [
                                     "Barrier recharges after 8 seconds",
-                                    "[ElementalDamage|Elemental Damage] from [HitDamage|Hits] is taken from the Barrier before your Life, Mana or [EnergyShield|Energy Shield]\nBarrier can take [ElementalDamage|Elemental Damage] equal to 30% of your [Armour] and [Evasion|Evasion Rating], up to a maximum of 32,000"
+                                    "[ElementalDamage|Elemental Damage] from [Hit|Hits] is taken from the Barrier before your Life, Mana or [EnergyShield|Energy Shield]\nBarrier can take [ElementalDamage|Elemental Damage] equal to 30% of your [Armour] and [Evasion|Evasion Rating], up to a maximum of 32,000"
                                 ],
                                 "skillName": "Sorcery Ward"
                             }
@@ -47451,7 +47451,7 @@
             "icon": "Art/2DArt/SkillIcons/passives/Witchhunter/WitchunterNode.png",
             "ascendancyId": "Mercenary2",
             "stats": [
-                "35% increased Damage with [HitDamage|Hits] against Enemies that are on [LowLife|Low Life]"
+                "35% increased Damage with [Hit|Hits] against Enemies that are on [LowLife|Low Life]"
             ],
             "group": 288,
             "orbit": 8,
@@ -47476,7 +47476,7 @@
             "icon": "Art/2DArt/SkillIcons/passives/Witchhunter/WitchunterNode.png",
             "ascendancyId": "Mercenary2",
             "stats": [
-                "35% increased Damage with [HitDamage|Hits] against Enemies that are on [LowLife|Low Life]"
+                "35% increased Damage with [Hit|Hits] against Enemies that are on [LowLife|Low Life]"
             ],
             "group": 288,
             "orbit": 5,
@@ -47658,7 +47658,7 @@
             "ascendancyId": "Mercenary2",
             "stats": [
                 "Enemies have Maximum [Concentration] equal to 30% of their Maximum Life",
-                "Break enemy [Concentration] on [HitDamage|Hit] equal to 100% of Damage Dealt",
+                "Break enemy [Concentration] on [Hit] equal to 100% of Damage Dealt",
                 "Enemies regain 10% of [Concentration] every second if they haven't lost [Concentration] in the past 5 seconds"
             ],
             "group": 292,
@@ -48081,7 +48081,7 @@
             "name": "Rage on Hit",
             "icon": "Art/2DArt/SkillIcons/passives/Rage.png",
             "stats": [
-                "Gain 1 [Rage|Rage] on [Melee] [HitDamage|Hit]"
+                "Gain 1 [Rage|Rage] on [Melee] [Hit]"
             ],
             "group": 296,
             "orbit": 2,
@@ -48625,7 +48625,7 @@
             "name": "Bleed Chance",
             "icon": "Art/2DArt/SkillIcons/passives/Blood2.png",
             "stats": [
-                "5% chance to inflict [Bleeding|Bleeding] on [HitDamage|Hit]"
+                "5% chance to inflict [Bleeding|Bleeding] on [Hit]"
             ],
             "group": 302,
             "orbit": 3,
@@ -48654,7 +48654,7 @@
                 32349
             ],
             "stats": [
-                "5% chance to inflict [Bleeding|Bleeding] on [HitDamage|Hit]"
+                "5% chance to inflict [Bleeding|Bleeding] on [Hit]"
             ],
             "group": 302,
             "orbit": 3,
@@ -50620,7 +50620,7 @@
             "isNotable": true,
             "ascendancyId": "Mercenary2",
             "stats": [
-                "Sorcery Ward's Barrier can also take [Physical] and [Chaos] Damage from [HitDamage|Hits]"
+                "Sorcery Ward's Barrier can also take [Physical] and [Chaos] Damage from [Hit|Hits]"
             ],
             "group": 321,
             "orbit": 0,
@@ -51855,7 +51855,7 @@
                 49547
             ],
             "stats": [
-                "Gain 1 [Rage|Rage] on [Melee] [HitDamage|Hit]"
+                "Gain 1 [Rage|Rage] on [Melee] [Hit]"
             ],
             "group": 340,
             "orbit": 7,
@@ -51968,7 +51968,7 @@
                 "ConcentratedLiquidFear"
             ],
             "stats": [
-                "Gain 1 [Rage|Rage] on [Melee] [HitDamage|Hit]",
+                "Gain 1 [Rage|Rage] on [Melee] [Hit]",
                 "Every 10 [Rage|Rage] also grants 12% increased [Physical|Physical] Damage"
             ],
             "group": 340,
@@ -52026,7 +52026,7 @@
                 49547
             ],
             "stats": [
-                "Gain 1 [Rage|Rage] on [Melee] [HitDamage|Hit]"
+                "Gain 1 [Rage|Rage] on [Melee] [Hit]"
             ],
             "group": 340,
             "orbit": 7,
@@ -53833,7 +53833,7 @@
             "ascendancyId": "Sorceress2",
             "stats": [
                 "Take 30% less Damage",
-                "4 seconds after being Damaged by an Enemy [HitDamage|Hit], take Damage equal to 30% of that [HitDamage|Hit]'s Damage"
+                "4 seconds after being Damaged by an Enemy [Hit], take Damage equal to 30% of that [Hit]'s Damage"
             ],
             "group": 362,
             "orbit": 0,
@@ -54121,7 +54121,7 @@
             "name": "Rage when Hit",
             "icon": "Art/2DArt/SkillIcons/passives/Rage.png",
             "stats": [
-                "Gain 2 [Rage] when [HitDamage|Hit] by an Enemy"
+                "Gain 2 [Rage] when [Hit] by an Enemy"
             ],
             "group": 366,
             "orbit": 0,
@@ -54151,7 +54151,7 @@
                 "ConcentratedLiquidSuffering"
             ],
             "stats": [
-                "Gain 3 [Rage] when [HitDamage|Hit] by an Enemy",
+                "Gain 3 [Rage] when [Hit] by an Enemy",
                 "Every [Rage] also grants 2% increased [StunThreshold|Stun Threshold]"
             ],
             "group": 367,
@@ -55273,7 +55273,7 @@
                         "displayMode": 0
                     }
                 ],
-                "secDescrText": "[Debuff] all targets in an area, causing a portion of Damage they take from [HitDamage|Hits] to be tracked by the [Debuff]. When the [Debuff|debuff's] duration expires or can kill the target, the target [LifeLoss|loses life] equal to that tracked damage all at once.",
+                "secDescrText": "[Debuff] all targets in an area, causing a portion of Damage they take from [Hit|Hits] to be tracked by the [Debuff]. When the [Debuff|debuff's] duration expires or can kill the target, the target [LifeLoss|loses life] equal to that tracked damage all at once.",
                 "gemTabs": [
                     {
                         "name": "Inevitable Agony",
@@ -55282,7 +55282,7 @@
                                 "stats": [
                                     "Initial cast radius is 1.5 metres",
                                     "[Debuff] duration is 12 seconds",
-                                    "[Debuff|Debuffed] targets [LifeLoss|lose life] equal to 25% of [HitDamage|Hit Damage] dealt to them while [Debuff|Debuffed] when [Debuff] expires\n [CullingStrike|Culls] enemies if [Debuff] reaches [CullingStrike|Culling Strike] Threshold"
+                                    "[Debuff|Debuffed] targets [LifeLoss|lose life] equal to 25% of [Hit|Hit Damage] dealt to them while [Debuff|Debuffed] when [Debuff] expires\n [CullingStrike|Culls] enemies if [Debuff] reaches [CullingStrike|Culling Strike] Threshold"
                                 ],
                                 "skillName": "Inevitable Agony"
                             }
@@ -55577,7 +55577,7 @@
             ],
             "stats": [
                 "10% increased Ignite Duration on Enemies",
-                "25% increased Damage with [HitDamage|Hits] against [Ignite|Ignited] Enemies"
+                "25% increased Damage with [Hit|Hits] against [Ignite|Ignited] Enemies"
             ],
             "group": 382,
             "orbit": 7,
@@ -55957,7 +55957,7 @@
                 "LiquidParanoia"
             ],
             "stats": [
-                "20% chance to [Aggravate] [Bleeding] on targets you [HitDamage|Hit] with [Empowered] [Attack|Attacks]",
+                "20% chance to [Aggravate] [Bleeding] on targets you [Hit] with [Empowered] [Attack|Attacks]",
                 "[Empowered|Empowered Attacks] deal 30% increased Damage"
             ],
             "group": 387,
@@ -55982,7 +55982,7 @@
             "name": "Empowered Attack Damage and Bleeding Chance",
             "icon": "Art/2DArt/SkillIcons/passives/WarCryEffect.png",
             "stats": [
-                "5% chance to inflict [Bleeding|Bleeding] on [HitDamage|Hit]",
+                "5% chance to inflict [Bleeding|Bleeding] on [Hit]",
                 "[Empowered|Empowered Attacks] deal 10% increased Damage"
             ],
             "group": 387,
@@ -56007,7 +56007,7 @@
             "name": "Empowered Attack Damage and Bleeding Chance",
             "icon": "Art/2DArt/SkillIcons/passives/WarCryEffect.png",
             "stats": [
-                "5% chance to inflict [Bleeding|Bleeding] on [HitDamage|Hit]",
+                "5% chance to inflict [Bleeding|Bleeding] on [Hit]",
                 "[Empowered|Empowered Attacks] deal 10% increased Damage"
             ],
             "group": 387,
@@ -57402,7 +57402,7 @@
             "stats": [
                 "+10% to [Resistances|Fire Resistance]",
                 "15% increased effect of [ArmourBreak|Fully Broken Armour]",
-                "[ArmourBreak|Fully Broken Armour] you inflict also increases [Fire] Damage Taken from [HitDamage|Hits]"
+                "[ArmourBreak|Fully Broken Armour] you inflict also increases [Fire] Damage Taken from [Hit|Hits]"
             ],
             "group": 404,
             "orbit": 1,
@@ -57614,7 +57614,7 @@
                 56605
             ],
             "stats": [
-                "30% increased Damage with [HitDamage|Hits] against Enemies that are on [LowLife|Low Life]"
+                "30% increased Damage with [Hit|Hits] against Enemies that are on [LowLife|Low Life]"
             ],
             "group": 408,
             "orbit": 3,
@@ -57647,7 +57647,7 @@
                 "LiquidEnvy"
             ],
             "stats": [
-                "120% increased Damage with [HitDamage|Hits] against Enemies that are on [LowLife|Low Life]",
+                "120% increased Damage with [Hit|Hits] against Enemies that are on [LowLife|Low Life]",
                 "5% increased Damage taken while on [LowLife|Low Life]"
             ],
             "group": 408,
@@ -57669,7 +57669,7 @@
             "name": "Damage against Enemies on Low Life",
             "icon": "Art/2DArt/SkillIcons/passives/damage.png",
             "stats": [
-                "30% increased Damage with [HitDamage|Hits] against Enemies that are on [LowLife|Low Life]"
+                "30% increased Damage with [Hit|Hits] against Enemies that are on [LowLife|Low Life]"
             ],
             "group": 408,
             "orbit": 3,
@@ -58213,7 +58213,7 @@
                 "LiquidDespair"
             ],
             "stats": [
-                "Area Skills have 20% chance to [Knockback|Knock Enemies Back] on [HitDamage|Hit]",
+                "Area Skills have 20% chance to [Knockback|Knock Enemies Back] on [Hit]",
                 "20% increased [Spell] Area Damage"
             ],
             "group": 417,
@@ -58500,7 +58500,7 @@
             ],
             "stats": [
                 "25% increased Damage with One Handed Weapons",
-                "[Attack|Attacks] have 10% chance to [Maim|Maim] on [HitDamage|Hit]"
+                "[Attack|Attacks] have 10% chance to [Maim|Maim] on [Hit]"
             ],
             "group": 421,
             "orbit": 4,
@@ -59645,7 +59645,7 @@
                         "type": 5
                     }
                 ],
-                "secDescrText": "While active, conjures a glittering barrier that accumulates protective gemstone Motes of each [Attributes|Attribute] type over time, but loses a random Mote when you are [HitDamage|Hit].",
+                "secDescrText": "While active, conjures a glittering barrier that accumulates protective gemstone Motes of each [Attributes|Attribute] type over time, but loses a random Mote when you are [Hit].",
                 "gemTabs": [
                     {
                         "name": "Virtuous Barrier",
@@ -60527,7 +60527,7 @@
             "name": "Damage against Burning Enemies",
             "icon": "Art/2DArt/SkillIcons/passives/firedamageint.png",
             "stats": [
-                "14% increased Damage with [HitDamage|Hits] against [Burning|Burning] Enemies"
+                "14% increased Damage with [Hit|Hits] against [Burning|Burning] Enemies"
             ],
             "group": 449,
             "orbit": 2,
@@ -60553,7 +60553,7 @@
             "name": "Damage against Burning Enemies",
             "icon": "Art/2DArt/SkillIcons/passives/firedamageint.png",
             "stats": [
-                "14% increased Damage with [HitDamage|Hits] against [Burning|Burning] Enemies"
+                "14% increased Damage with [Hit|Hits] against [Burning|Burning] Enemies"
             ],
             "group": 449,
             "orbit": 2,
@@ -61688,7 +61688,7 @@
                 "ascendancy": "Druid1"
             },
             "stats": [
-                "10% chance to [Poison|Poison] on [HitDamage|Hit]"
+                "10% chance to [Poison|Poison] on [Hit]"
             ],
             "group": 464,
             "orbit": 2,
@@ -61718,7 +61718,7 @@
                 "ascendancy": "Druid1"
             },
             "stats": [
-                "10% chance to [Poison|Poison] on [HitDamage|Hit]"
+                "10% chance to [Poison|Poison] on [Hit]"
             ],
             "group": 464,
             "orbit": 7,
@@ -61809,7 +61809,7 @@
                 "ascendancy": "Druid1"
             },
             "stats": [
-                "30% chance to [Poison] on [HitDamage|Hit] against Enemies that are not Poisoned",
+                "30% chance to [Poison] on [Hit] against Enemies that are not Poisoned",
                 "80% increased [BuffMagnitude|Magnitude] of [Poison] you inflict on targets that are not Poisoned"
             ],
             "group": 464,
@@ -65981,7 +65981,7 @@
             ],
             "stats": [
                 "[Minion|Minions] have 20% increased Area of Effect",
-                "[Minion|Minions] have 10% chance to inflict [Withered] on [HitDamage|Hit]",
+                "[Minion|Minions] have 10% chance to inflict [Withered] on [Hit]",
                 "[Spell|Spells] [Gain] 5% of Damage as extra [Chaos|Chaos] Damage"
             ],
             "group": 504,
@@ -67052,7 +67052,7 @@
             "icon": "Art/2DArt/SkillIcons/passives/BulwarkKeystone.png",
             "isKeystone": true,
             "stats": [
-                "Dodge Roll cannot Avoid Damage\nTake 30% less [HitDamage|Damage from Hits] while Dodge Rolling"
+                "Dodge Roll cannot Avoid Damage\nTake 30% less [Hit|Damage from Hits] while Dodge Rolling"
             ],
             "flavourText": [
                 "In battle, certainty is worth a little pain."
@@ -67357,7 +67357,7 @@
                 46742
             ],
             "stats": [
-                "5% chance to inflict [Bleeding|Bleeding] on [HitDamage|Hit]"
+                "5% chance to inflict [Bleeding|Bleeding] on [Hit]"
             ],
             "group": 520,
             "orbit": 0,
@@ -67383,7 +67383,7 @@
                 46742
             ],
             "stats": [
-                "5% chance to inflict [Bleeding|Bleeding] on [HitDamage|Hit]"
+                "5% chance to inflict [Bleeding|Bleeding] on [Hit]"
             ],
             "group": 521,
             "orbit": 0,
@@ -67888,7 +67888,7 @@
                 "LiquidDespair"
             ],
             "stats": [
-                "25% increased Damage with [HitDamage|Hits] against [Hinder|Hindered] Enemies",
+                "25% increased Damage with [Hit|Hits] against [Hinder|Hindered] Enemies",
                 "15% chance to [Hinder] Enemies on Hit with [Spell|Spells]"
             ],
             "group": 527,
@@ -68463,7 +68463,7 @@
                 "ConcentratedLiquidIsolation"
             ],
             "stats": [
-                "4% chance that if you would gain [Rage] on [HitDamage|Hit], you instead gain up to your maximum Rage"
+                "4% chance that if you would gain [Rage] on [Hit], you instead gain up to your maximum Rage"
             ],
             "group": 532,
             "orbit": 5,
@@ -68489,7 +68489,7 @@
             "name": "Rage on Hit",
             "icon": "Art/2DArt/SkillIcons/passives/Rage.png",
             "stats": [
-                "Gain 1 [Rage|Rage] on [Melee] [HitDamage|Hit]"
+                "Gain 1 [Rage|Rage] on [Melee] [Hit]"
             ],
             "group": 532,
             "orbit": 6,
@@ -68513,7 +68513,7 @@
             "name": "Rage on Hit",
             "icon": "Art/2DArt/SkillIcons/passives/Rage.png",
             "stats": [
-                "Gain 1 [Rage|Rage] on [Melee] [HitDamage|Hit]"
+                "Gain 1 [Rage|Rage] on [Melee] [Hit]"
             ],
             "group": 532,
             "orbit": 8,
@@ -68537,7 +68537,7 @@
             "name": "Rage on Ignite",
             "icon": "Art/2DArt/SkillIcons/passives/Rage.png",
             "stats": [
-                "Gain 1 [Rage] when your [HitDamage|Hit] [Ignite|Ignites] a target"
+                "Gain 1 [Rage] when your [Hit] [Ignite|Ignites] a target"
             ],
             "group": 532,
             "orbit": 4,
@@ -68561,7 +68561,7 @@
             "name": "Rage on Ignite",
             "icon": "Art/2DArt/SkillIcons/passives/Rage.png",
             "stats": [
-                "Gain 1 [Rage] when your [HitDamage|Hit] [Ignite|Ignites] a target"
+                "Gain 1 [Rage] when your [Hit] [Ignite|Ignites] a target"
             ],
             "group": 532,
             "orbit": 1,
@@ -69268,7 +69268,7 @@
             "isNotable": true,
             "ascendancyId": "Mercenary3",
             "stats": [
-                "For each colour of Socketed Support Gem that is most numerous, gain:\n•Red: [HitDamage|Hits] against you have no [CriticalDamageBonus|Critical Damage Bonus]\n•Blue: Skills have 30% less cost\n•Green: 40% less Movement Speed Penalty from using Skills while Moving"
+                "For each colour of Socketed Support Gem that is most numerous, gain:\n•Red: [Hit|Hits] against you have no [CriticalDamageBonus|Critical Damage Bonus]\n•Blue: Skills have 30% less cost\n•Green: 40% less Movement Speed Penalty from using Skills while Moving"
             ],
             "group": 543,
             "orbit": 0,
@@ -69584,7 +69584,7 @@
                         "displayMode": 0
                     }
                 ],
-                "secDescrText": "Create a stationary [Fire], [Cold] or [Lightning] storm at a target location for a duration, based on the highest [ElementalDamage|Elemental Damage] type for the [HitDamage|Hit] that [Trigger|Triggered] the storm. [HitDamage|Hits] which do not deal [ElementalDamage|Elemental Damage] will not [Trigger] the storm.",
+                "secDescrText": "Create a stationary [Fire], [Cold] or [Lightning] storm at a target location for a duration, based on the highest [ElementalDamage|Elemental Damage] type for the [Hit] that [Trigger|Triggered] the storm. [Hit|Hits] which do not deal [ElementalDamage|Elemental Damage] will not [Trigger] the storm.",
                 "gemTabs": [
                     {
                         "name": "Elemental Storm",
@@ -69761,7 +69761,7 @@
             "isNotable": true,
             "ascendancyId": "Sorceress1",
             "stats": [
-                "[DamageTypes|All Damage] from [HitDamage|Hits] [Contributes|Contributes] to [Chill] Magnitude"
+                "[DamageTypes|All Damage] from [Hit|Hits] [Contributes|Contributes] to [Chill] Magnitude"
             ],
             "group": 547,
             "orbit": 5,
@@ -71002,7 +71002,7 @@
             },
             "stats": [
                 "10% increased Bleeding Duration",
-                "20% chance for [Attack] [HitDamage|Hits] to apply [Incision]"
+                "20% chance for [Attack] [Hit|Hits] to apply [Incision]"
             ],
             "group": 560,
             "orbit": 2,
@@ -71033,7 +71033,7 @@
             },
             "stats": [
                 "10% increased Bleeding Duration",
-                "20% chance for [Attack] [HitDamage|Hits] to apply [Incision]"
+                "20% chance for [Attack] [Hit|Hits] to apply [Incision]"
             ],
             "group": 560,
             "orbit": 2,
@@ -71066,7 +71066,7 @@
             "stats": [
                 "3% increased Movement Speed",
                 "20% increased Bleeding Duration",
-                "40% chance for [Attack] [HitDamage|Hits] to apply [Incision]"
+                "40% chance for [Attack] [Hit|Hits] to apply [Incision]"
             ],
             "group": 560,
             "orbit": 7,
@@ -71765,7 +71765,7 @@
             ],
             "stats": [
                 "30% increased [Stun] Buildup",
-                "[HitDamage|Damage with Hits] is [Lucky|Lucky] against [HeavyStun|Heavy Stunned] Enemies"
+                "[Hit|Damage with Hits] is [Lucky|Lucky] against [HeavyStun|Heavy Stunned] Enemies"
             ],
             "group": 569,
             "orbit": 2,
@@ -72623,7 +72623,7 @@
             "name": "Rage on Hit",
             "icon": "Art/2DArt/SkillIcons/passives/Rage.png",
             "stats": [
-                "Gain 1 [Rage|Rage] on [Melee] [HitDamage|Hit]"
+                "Gain 1 [Rage|Rage] on [Melee] [Hit]"
             ],
             "group": 579,
             "orbit": 0,
@@ -72647,7 +72647,7 @@
             "name": "Rage on Hit",
             "icon": "Art/2DArt/SkillIcons/passives/Rage.png",
             "stats": [
-                "Gain 1 [Rage|Rage] on [Melee] [HitDamage|Hit]"
+                "Gain 1 [Rage|Rage] on [Melee] [Hit]"
             ],
             "group": 579,
             "orbit": 7,
@@ -72671,7 +72671,7 @@
             "name": "Rage on Hit",
             "icon": "Art/2DArt/SkillIcons/passives/Rage.png",
             "stats": [
-                "Gain 1 [Rage|Rage] on [Melee] [HitDamage|Hit]"
+                "Gain 1 [Rage|Rage] on [Melee] [Hit]"
             ],
             "group": 579,
             "orbit": 7,
@@ -73442,7 +73442,7 @@
             ],
             "stats": [
                 "60% increased [Flammability] [BuffMagnitude|Magnitude]",
-                "30% increased Damage with [HitDamage|Hits] against [Burning|Burning] Enemies"
+                "30% increased Damage with [Hit|Hits] against [Burning|Burning] Enemies"
             ],
             "group": 588,
             "orbit": 7,
@@ -77266,7 +77266,7 @@
                 "ConcentratedLiquidFear"
             ],
             "stats": [
-                "35% increased Damage with [HitDamage|Hits] against [Burning|Burning] Enemies"
+                "35% increased Damage with [Hit|Hits] against [Burning|Burning] Enemies"
             ],
             "group": 632,
             "orbit": 3,
@@ -77682,7 +77682,7 @@
             },
             "stats": [
                 "12% increased [Spell] Damage",
-                "8% chance to [Poison|Poison] on [HitDamage|Hit]"
+                "8% chance to [Poison|Poison] on [Hit]"
             ],
             "group": 636,
             "orbit": 3,
@@ -77713,7 +77713,7 @@
             },
             "stats": [
                 "12% increased [Spell] Damage",
-                "8% chance to [Poison|Poison] on [HitDamage|Hit]"
+                "8% chance to [Poison|Poison] on [Hit]"
             ],
             "group": 636,
             "orbit": 7,
@@ -77744,7 +77744,7 @@
             },
             "stats": [
                 "12% increased [Spell] Damage",
-                "8% chance to [Poison|Poison] on [HitDamage|Hit]"
+                "8% chance to [Poison|Poison] on [Hit]"
             ],
             "group": 636,
             "orbit": 2,
@@ -79132,9 +79132,9 @@
                                     "Deals 20 to 30 [Physical|Physical] Damage",
                                     "100% more [Stun] buildup",
                                     "Shockwave length is 3.5 metres",
-                                    "Inflicts 4 additional [CriticalWeakness|Critical Weakness] on [HitDamage|Hit]",
+                                    "Inflicts 4 additional [CriticalWeakness|Critical Weakness] on [Hit]",
                                     "25% more area of effect per stage",
-                                    "125% more Damage with [HitDamage|Hits] for each stage",
+                                    "125% more Damage with [Hit|Hits] for each stage",
                                     "4 maximum stages"
                                 ],
                                 "skillName": "Kelari's Judgment"
@@ -79249,9 +79249,9 @@
                                 ],
                                 "stats": [
                                     "Deals 12 to 18 [Physical|Physical] Damage",
-                                    "Inflicts [CriticalWeakness|Critical Weakness] on [HitDamage|Hit]",
+                                    "Inflicts [CriticalWeakness|Critical Weakness] on [Hit]",
                                     "50% increased [CriticalDamageBonus|Critical Damage Bonus]",
-                                    "20% chance to [Blind] enemies on [HitDamage|Hit]",
+                                    "20% chance to [Blind] enemies on [Hit]",
                                     "40% more damage against [Rarity|Unique] enemies",
                                     "Explosion radius is 1.5 metres"
                                 ],
@@ -79384,7 +79384,7 @@
                                     "Inflicts 400% more [Flammability] [BuffMagnitude|Magnitude]",
                                     "Tornado radius is 1.2 metres",
                                     "Tornado duration is 4 seconds",
-                                    "Tornadoes [HitDamage|Hit] enemies every 0.70 seconds"
+                                    "Tornadoes [Hit] enemies every 0.70 seconds"
                                 ],
                                 "skillName": "Tornado"
                             }
@@ -79910,14 +79910,14 @@
                         "type": 5
                     }
                 ],
-                "secDescrText": "Summon Kelari, an invulnerable Sand Djinn [Minion], to do your bidding. Kelari will only act when you [Command] him to do so. Kelari delivers swift [HitDamage|Hits] with massive [Critical|Critical Hit] potential.",
+                "secDescrText": "Summon Kelari, an invulnerable Sand Djinn [Minion], to do your bidding. Kelari will only act when you [Command] him to do so. Kelari delivers swift [Hit|Hits] with massive [Critical|Critical Hit] potential.",
                 "gemTabs": [
                     {
                         "name": "Kelari, the Tainted Sands",
                         "pages": [
                             {
                                 "stats": [
-                                    "Inflicts [CriticalWeakness|Critical Weakness] on [HitDamage|Hit]",
+                                    "Inflicts [CriticalWeakness|Critical Weakness] on [Hit]",
                                     "50% increased [CriticalDamageBonus|Critical Damage Bonus]"
                                 ],
                                 "skillName": "Kelari, the Tainted Sands"
@@ -79974,7 +79974,7 @@
                                 "properties": [],
                                 "stats": [
                                     "Deals 7 to 11 [Physical|Physical] Damage",
-                                    "[Maim|Maim] on [HitDamage|Hit]",
+                                    "[Maim|Maim] on [Hit]",
                                     "Eruption radius is 1 metre"
                                 ],
                                 "skillName": "Eruption"
@@ -80096,7 +80096,7 @@
                                 "stats": [
                                     "Deals 11 to 16 [Fire] Damage",
                                     "[DetonationTime|Detonation Time] is 3 seconds",
-                                    "50% more Damage with [HitDamage|Hits] against [Burning] Enemies",
+                                    "50% more Damage with [Hit|Hits] against [Burning] Enemies",
                                     "Explosion radius is 2 metres",
                                     "[Limit] 3 active Brands"
                                 ],
@@ -83828,7 +83828,7 @@
                 "ConcentratedLiquidIsolation"
             ],
             "stats": [
-                "24% increased Damage with [HitDamage|Hits] against Enemies affected by [ElementalAilments|Elemental Ailments]",
+                "24% increased Damage with [Hit|Hits] against Enemies affected by [ElementalAilments|Elemental Ailments]",
                 "30% increased chance to inflict [Ailments] against [Rarity|Rare or Unique] Enemies"
             ],
             "group": 689,
@@ -83855,7 +83855,7 @@
             "name": "Damage against Ailments",
             "icon": "Art/2DArt/SkillIcons/passives/ElementalDamagenode.png",
             "stats": [
-                "12% increased Damage with [HitDamage|Hits] against Enemies affected by [ElementalAilments|Elemental Ailments]"
+                "12% increased Damage with [Hit|Hits] against Enemies affected by [ElementalAilments|Elemental Ailments]"
             ],
             "group": 689,
             "orbit": 3,
@@ -83881,7 +83881,7 @@
             "name": "Damage against Ailments",
             "icon": "Art/2DArt/SkillIcons/passives/ElementalDamagenode.png",
             "stats": [
-                "12% increased Damage with [HitDamage|Hits] against Enemies affected by [ElementalAilments|Elemental Ailments]"
+                "12% increased Damage with [Hit|Hits] against Enemies affected by [ElementalAilments|Elemental Ailments]"
             ],
             "group": 689,
             "orbit": 4,
@@ -83905,7 +83905,7 @@
             "name": "Damage against Ailments",
             "icon": "Art/2DArt/SkillIcons/passives/ElementalDamagenode.png",
             "stats": [
-                "12% increased Damage with [HitDamage|Hits] against Enemies affected by [ElementalAilments|Elemental Ailments]"
+                "12% increased Damage with [Hit|Hits] against Enemies affected by [ElementalAilments|Elemental Ailments]"
             ],
             "group": 689,
             "orbit": 5,
@@ -85848,7 +85848,7 @@
                 "DilutedLiquidIre"
             ],
             "stats": [
-                "Defend with 150% of [Armour] against [HitDamage|Hits] from Enemies that are further than 6m away"
+                "Defend with 150% of [Armour] against [Hit|Hits] from Enemies that are further than 6m away"
             ],
             "group": 708,
             "orbit": 3,
@@ -86527,7 +86527,7 @@
                 42680
             ],
             "stats": [
-                "15% chance to [Impale] on [Spell] [HitDamage|Hit]"
+                "15% chance to [Impale] on [Spell] [Hit]"
             ],
             "group": 713,
             "orbit": 7,
@@ -86554,7 +86554,7 @@
                 42680
             ],
             "stats": [
-                "15% chance to [Impale] on [Spell] [HitDamage|Hit]"
+                "15% chance to [Impale] on [Spell] [Hit]"
             ],
             "group": 713,
             "orbit": 2,
@@ -87291,7 +87291,7 @@
                 "LiquidEnvy"
             ],
             "stats": [
-                "10% chance to [Aggravate] [Bleeding] on targets you [HitDamage|Hit] with [Attack|Attacks]"
+                "10% chance to [Aggravate] [Bleeding] on targets you [Hit] with [Attack|Attacks]"
             ],
             "group": 717,
             "orbit": 2,
@@ -87422,7 +87422,7 @@
                 "ConcentratedLiquidFear"
             ],
             "stats": [
-                "[Minion|Minions] deal 30% increased Damage if you've [HitDamage|Hit] [Recently]"
+                "[Minion|Minions] deal 30% increased Damage if you've [Hit] [Recently]"
             ],
             "group": 719,
             "orbit": 7,
@@ -88314,8 +88314,8 @@
             ],
             "stats": [
                 "20% increased [Armour] and [Evasion] Rating",
-                "40% increased [Evasion|Evasion Rating] if you have been [HitDamage|Hit] [Recently|Recently]",
-                "40% increased [Armour|Armour] if you haven't been [HitDamage|Hit] [Recently|Recently]"
+                "40% increased [Evasion|Evasion Rating] if you have been [Hit] [Recently|Recently]",
+                "40% increased [Armour|Armour] if you haven't been [Hit] [Recently|Recently]"
             ],
             "group": 728,
             "orbit": 7,
@@ -88815,7 +88815,7 @@
                 33369
             ],
             "stats": [
-                "5% chance to inflict [Bleeding|Bleeding] on [HitDamage|Hit]"
+                "5% chance to inflict [Bleeding|Bleeding] on [Hit]"
             ],
             "group": 733,
             "orbit": 0,
@@ -89572,7 +89572,7 @@
                 33369
             ],
             "stats": [
-                "5% chance to inflict [Bleeding|Bleeding] on [HitDamage|Hit]"
+                "5% chance to inflict [Bleeding|Bleeding] on [Hit]"
             ],
             "group": 744,
             "orbit": 0,
@@ -89602,7 +89602,7 @@
                 33369
             ],
             "stats": [
-                "5% chance to inflict [Bleeding|Bleeding] on [HitDamage|Hit]"
+                "5% chance to inflict [Bleeding|Bleeding] on [Hit]"
             ],
             "group": 745,
             "orbit": 0,
@@ -90118,7 +90118,7 @@
                 33369
             ],
             "stats": [
-                "5% chance to inflict [Bleeding|Bleeding] on [HitDamage|Hit]"
+                "5% chance to inflict [Bleeding|Bleeding] on [Hit]"
             ],
             "group": 749,
             "orbit": 0,
@@ -90360,7 +90360,7 @@
             "stats": [
                 "[Projectile|Projectiles] have 30% increased [CriticalDamageBonus|Critical Damage Bonus] against Enemies further than 6m",
                 "[Projectile|Projectiles] have 20% increased [Critical] Hit Chance against Enemies further than 6m",
-                "25% chance to inflict [Daze] with [HitDamage|Hits] against Enemies further than 6m"
+                "25% chance to inflict [Daze] with [Hit|Hits] against Enemies further than 6m"
             ],
             "group": 752,
             "orbit": 0,
@@ -90602,7 +90602,7 @@
             "name": "Bleeding Chance",
             "icon": "Art/2DArt/SkillIcons/passives/Blood2.png",
             "stats": [
-                "5% chance to inflict [Bleeding|Bleeding] on [HitDamage|Hit]"
+                "5% chance to inflict [Bleeding|Bleeding] on [Hit]"
             ],
             "group": 757,
             "orbit": 2,
@@ -90626,7 +90626,7 @@
             "name": "Bleeding Chance",
             "icon": "Art/2DArt/SkillIcons/passives/Blood2.png",
             "stats": [
-                "5% chance to inflict [Bleeding|Bleeding] on [HitDamage|Hit]"
+                "5% chance to inflict [Bleeding|Bleeding] on [Hit]"
             ],
             "group": 757,
             "orbit": 7,
@@ -90682,7 +90682,7 @@
                 "DilutedLiquidIre"
             ],
             "stats": [
-                "10% chance to inflict [Bleeding|Bleeding] on [HitDamage|Hit]",
+                "10% chance to inflict [Bleeding|Bleeding] on [Hit]",
                 "15% increased [BuffMagnitude|Magnitude] of [Bleeding|Bleeding] you inflict"
             ],
             "group": 757,
@@ -90742,7 +90742,7 @@
                 "LiquidParanoia"
             ],
             "stats": [
-                "[Attack] [HitDamage|Hits] [Aggravate] any [Bleeding] on targets which is older than 4 seconds"
+                "[Attack] [Hit|Hits] [Aggravate] any [Bleeding] on targets which is older than 4 seconds"
             ],
             "group": 759,
             "orbit": 2,
@@ -92940,7 +92940,7 @@
                 28492
             ],
             "stats": [
-                "5% chance to inflict [Bleeding|Bleeding] on [HitDamage|Hit]"
+                "5% chance to inflict [Bleeding|Bleeding] on [Hit]"
             ],
             "group": 781,
             "orbit": 3,
@@ -95472,7 +95472,7 @@
             "isNotable": true,
             "stats": [
                 "15% increased chance to inflict [Ailments]",
-                "[HitDamage|Hits] [ArmourBreak|Break] 30% increased [Armour|Armour] on targets with [Ailments]"
+                "[Hit|Hits] [ArmourBreak|Break] 30% increased [Armour|Armour] on targets with [Ailments]"
             ],
             "group": 804,
             "orbit": 4,
@@ -97707,7 +97707,7 @@
             ],
             "stats": [
                 "20% increased [Knockback] Distance",
-                "20% chance to [Knockback|Knock Enemies Back] with [HitDamage|Hits] at [CloseRange|Close Range]"
+                "20% chance to [Knockback|Knock Enemies Back] with [Hit|Hits] at [CloseRange|Close Range]"
             ],
             "group": 830,
             "orbit": 4,
@@ -98614,7 +98614,7 @@
             "grantedStrength": 5,
             "grantedDexterity": 5,
             "stats": [
-                "[HitDamage|Hits] against you have 20% reduced [CriticalDamageBonus|Critical Damage Bonus]",
+                "[Hit|Hits] against you have 20% reduced [CriticalDamageBonus|Critical Damage Bonus]",
                 "20% increased [Armour] and [Evasion] Rating",
                 "+5 to [Strength|Strength] and [Dexterity|Dexterity]"
             ],
@@ -99112,7 +99112,7 @@
             ],
             "stats": [
                 "15% increased [Armour]",
-                "Prevent +15% of Damage from [Deflect|Deflected] [Critical] [HitDamage|Hits]"
+                "Prevent +15% of Damage from [Deflect|Deflected] [Critical] [Hit|Hits]"
             ],
             "group": 846,
             "orbit": 2,
@@ -102650,7 +102650,7 @@
             ],
             "stats": [
                 "10% increased [Attack] Speed",
-                "15% chance to [Blind] Enemies on [HitDamage|Hit] with [Attack|Attacks]"
+                "15% chance to [Blind] Enemies on [Hit] with [Attack|Attacks]"
             ],
             "group": 884,
             "orbit": 2,
@@ -102757,7 +102757,7 @@
             "name": "Blind Chance",
             "icon": "Art/2DArt/SkillIcons/passives/EvasionNode.png",
             "stats": [
-                "8% chance to [Blind] Enemies on [HitDamage|Hit] with [Attack|Attacks]"
+                "8% chance to [Blind] Enemies on [Hit] with [Attack|Attacks]"
             ],
             "group": 884,
             "orbit": 3,
@@ -102785,7 +102785,7 @@
             "name": "Blind Chance",
             "icon": "Art/2DArt/SkillIcons/passives/EvasionNode.png",
             "stats": [
-                "8% chance to [Blind] Enemies on [HitDamage|Hit] with [Attack|Attacks]"
+                "8% chance to [Blind] Enemies on [Hit] with [Attack|Attacks]"
             ],
             "group": 884,
             "orbit": 3,
@@ -104572,7 +104572,7 @@
                 "ConcentratedLiquidIsolation"
             ],
             "stats": [
-                "30% chance for [Lightning] Damage with [HitDamage|Hits] to be [Lucky]"
+                "30% chance for [Lightning] Damage with [Hit|Hits] to be [Lucky]"
             ],
             "group": 915,
             "orbit": 0,
@@ -105594,7 +105594,7 @@
                 "ConcentratedLiquidIsolation"
             ],
             "stats": [
-                "[HitDamage|Damage with Hits] is [Lucky|Lucky] against Enemies that are on [LowLife|Low Life]"
+                "[Hit|Damage with Hits] is [Lucky|Lucky] against Enemies that are on [LowLife|Low Life]"
             ],
             "group": 930,
             "orbit": 7,
@@ -105619,7 +105619,7 @@
             "name": "Damage against Enemies on Low Life",
             "icon": "Art/2DArt/SkillIcons/passives/damage.png",
             "stats": [
-                "30% increased Damage with [HitDamage|Hits] against Enemies that are on [LowLife|Low Life]"
+                "30% increased Damage with [Hit|Hits] against Enemies that are on [LowLife|Low Life]"
             ],
             "group": 930,
             "orbit": 6,
@@ -105643,7 +105643,7 @@
             "name": "Damage against Enemies on Low Life",
             "icon": "Art/2DArt/SkillIcons/passives/damage.png",
             "stats": [
-                "30% increased Damage with [HitDamage|Hits] against Enemies that are on [LowLife|Low Life]"
+                "30% increased Damage with [Hit|Hits] against Enemies that are on [LowLife|Low Life]"
             ],
             "group": 930,
             "orbit": 6,
@@ -105670,7 +105670,7 @@
                 19288
             ],
             "stats": [
-                "30% increased Damage with [HitDamage|Hits] against Enemies that are on [LowLife|Low Life]"
+                "30% increased Damage with [Hit|Hits] against Enemies that are on [LowLife|Low Life]"
             ],
             "group": 930,
             "orbit": 7,
@@ -105695,7 +105695,7 @@
             "name": "Damage against Enemies on Low Life",
             "icon": "Art/2DArt/SkillIcons/passives/damage.png",
             "stats": [
-                "30% increased Damage with [HitDamage|Hits] against Enemies that are on [LowLife|Low Life]"
+                "30% increased Damage with [Hit|Hits] against Enemies that are on [LowLife|Low Life]"
             ],
             "group": 930,
             "orbit": 4,
@@ -105721,7 +105721,7 @@
             "name": "Damage against Enemies on Low Life",
             "icon": "Art/2DArt/SkillIcons/passives/damage.png",
             "stats": [
-                "30% increased Damage with [HitDamage|Hits] against Enemies that are on [LowLife|Low Life]"
+                "30% increased Damage with [Hit|Hits] against Enemies that are on [LowLife|Low Life]"
             ],
             "group": 930,
             "orbit": 4,
@@ -105746,7 +105746,7 @@
             "name": "Damage against Enemies on Low Life",
             "icon": "Art/2DArt/SkillIcons/passives/damage.png",
             "stats": [
-                "30% increased Damage with [HitDamage|Hits] against Enemies that are on [LowLife|Low Life]"
+                "30% increased Damage with [Hit|Hits] against Enemies that are on [LowLife|Low Life]"
             ],
             "group": 930,
             "orbit": 7,
@@ -105772,7 +105772,7 @@
             "name": "Damage against Enemies on Low Life",
             "icon": "Art/2DArt/SkillIcons/passives/damage.png",
             "stats": [
-                "30% increased Damage with [HitDamage|Hits] against Enemies that are on [LowLife|Low Life]"
+                "30% increased Damage with [Hit|Hits] against Enemies that are on [LowLife|Low Life]"
             ],
             "group": 930,
             "orbit": 1,
@@ -105796,7 +105796,7 @@
             "name": "Damage against Enemies on Low Life",
             "icon": "Art/2DArt/SkillIcons/passives/damage.png",
             "stats": [
-                "30% increased Damage with [HitDamage|Hits] against Enemies that are on [LowLife|Low Life]"
+                "30% increased Damage with [Hit|Hits] against Enemies that are on [LowLife|Low Life]"
             ],
             "group": 930,
             "orbit": 1,
@@ -105826,7 +105826,7 @@
                 "DilutedLiquidIre"
             ],
             "stats": [
-                "60% increased Damage with [HitDamage|Hits] against Enemies that are on [LowLife|Low Life]",
+                "60% increased Damage with [Hit|Hits] against Enemies that are on [LowLife|Low Life]",
                 "30% increased [Stun|Stun] Buildup against Enemies that are on [LowLife|Low Life]"
             ],
             "group": 930,
@@ -106130,7 +106130,7 @@
         "58783": {
             "id": "life_leech1",
             "skill": 58783,
-            "name": "Life Leech. Armour and Evasion while Leeching",
+            "name": "Life Leech, Armour and Evasion while Leeching",
             "icon": "Art/2DArt/SkillIcons/passives/lifeleech.png",
             "stats": [
                 "6% increased amount of Life [LifeLeech|Leeched]",
@@ -106212,7 +106212,7 @@
         "48583": {
             "id": "life_leech2",
             "skill": 48583,
-            "name": "Life Leech. Armour and Evasion while Leeching",
+            "name": "Life Leech, Armour and Evasion while Leeching",
             "icon": "Art/2DArt/SkillIcons/passives/lifeleech.png",
             "stats": [
                 "6% increased amount of Life [LifeLeech|Leeched]",
@@ -111667,7 +111667,7 @@
                         "type": 5
                     }
                 ],
-                "secDescrText": "Drink the blood of your enemies to restore your Life. While active, enemies you kill have a chance to spawn a Life [Remnant], and [HitDamage|Hitting] a target spawns a Life [Remnant] every few seconds. Picking up a Life [Remnant] grants you Life which can [Overflow|Overflow] maximum Life.",
+                "secDescrText": "Drink the blood of your enemies to restore your Life. While active, enemies you kill have a chance to spawn a Life [Remnant], and [Hit|Hitting] a target spawns a Life [Remnant] every few seconds. Picking up a Life [Remnant] grants you Life which can [Overflow|Overflow] maximum Life.",
                 "gemTabs": [
                     {
                         "name": "Life Remnants",
@@ -111676,7 +111676,7 @@
                                 "stats": [
                                     "[Remnant|Remnants] last for 8 seconds",
                                     "25% chance to spawn a [Remnant] on killing an enemy",
-                                    "Spawn a [Remnant] on [HitDamage|Hitting] a target, no more than once every 3 seconds",
+                                    "Spawn a [Remnant] on [Hit|Hitting] a target, no more than once every 3 seconds",
                                     "Each [Remnant] grants 11 Life"
                                 ],
                                 "skillName": "Life Remnants"
@@ -111798,7 +111798,7 @@
             "isNotable": true,
             "ascendancyId": "Witch2",
             "stats": [
-                "25% of Life Loss from [HitDamage|Hits] is prevented, then that much Life is lost over 4 seconds instead"
+                "25% of Life Loss from [Hit|Hits] is prevented, then that much Life is lost over 4 seconds instead"
             ],
             "group": 993,
             "orbit": 8,
@@ -111826,7 +111826,7 @@
             "stats": [
                 "[Flask|Flasks] do not recover Life",
                 "Gain 1 Life [Flask] Charge per 2% Life spent",
-                "On [HitDamage|Hitting] an Enemy while a Life [Flask] is at full Charges, 40% of its Charges are consumed\n[Gain] 1% of damage as [Physical] damage for 5 seconds per Charge consumed this way"
+                "On [Hit|Hitting] an Enemy while a Life [Flask] is at full Charges, 40% of its Charges are consumed\n[Gain] 1% of damage as [Physical] damage for 5 seconds per Charge consumed this way"
             ],
             "group": 993,
             "orbit": 5,
@@ -113939,7 +113939,7 @@
                 "LiquidDespair"
             ],
             "stats": [
-                "25% increased Damage with [HitDamage|Hits] against [Rarity|Rare and Unique] Enemies",
+                "25% increased Damage with [Hit|Hits] against [Rarity|Rare and Unique] Enemies",
                 "20% increased [Accuracy] Rating against [Rarity|Rare or Unique] Enemies",
                 "20% increased chance to inflict [Ailments] against [Rarity|Rare or Unique] Enemies"
             ],
@@ -116849,7 +116849,7 @@
             "icon": "Art/2DArt/SkillIcons/passives/ClawsOfTheMagpie.png",
             "isNotable": true,
             "stats": [
-                "33% increased Damage with [HitDamage|Hits] against Enemies affected by [Ailments]"
+                "33% increased Damage with [Hit|Hits] against Enemies affected by [Ailments]"
             ],
             "group": 1054,
             "orbit": 2,
@@ -118572,7 +118572,7 @@
             "name": "Incision Chance",
             "icon": "Art/2DArt/SkillIcons/passives/Blood2.png",
             "stats": [
-                "20% chance for [Attack] [HitDamage|Hits] to apply [Incision]"
+                "20% chance for [Attack] [Hit|Hits] to apply [Incision]"
             ],
             "group": 1081,
             "orbit": 2,
@@ -118596,7 +118596,7 @@
             "name": "Incision Chance",
             "icon": "Art/2DArt/SkillIcons/passives/Blood2.png",
             "stats": [
-                "20% chance for [Attack] [HitDamage|Hits] to apply [Incision]"
+                "20% chance for [Attack] [Hit|Hits] to apply [Incision]"
             ],
             "group": 1081,
             "orbit": 3,
@@ -118770,7 +118770,7 @@
             ],
             "stats": [
                 "6% increased [ParriedDebuff|Parried Debuff] [BuffMagnitude|Magnitude]",
-                "8% increased [Parry] [HitDamage|Hit] Area of Effect"
+                "8% increased [Parry] [Hit] Area of Effect"
             ],
             "group": 1086,
             "orbit": 2,
@@ -118798,7 +118798,7 @@
                 25100
             ],
             "stats": [
-                "15% increased [Parry] [HitDamage|Hit] Area of Effect"
+                "15% increased [Parry] [Hit] Area of Effect"
             ],
             "group": 1086,
             "orbit": 2,
@@ -118825,7 +118825,7 @@
                 25100
             ],
             "stats": [
-                "15% increased [Parry] [HitDamage|Hit] Area of Effect"
+                "15% increased [Parry] [Hit] Area of Effect"
             ],
             "group": 1086,
             "orbit": 2,
@@ -118913,7 +118913,7 @@
             ],
             "stats": [
                 "15% increased [ParriedDebuff|Parried Debuff] [BuffMagnitude|Magnitude]",
-                "20% increased [Parry] [HitDamage|Hit] Area of Effect"
+                "20% increased [Parry] [Hit] Area of Effect"
             ],
             "group": 1086,
             "orbit": 0,
@@ -118945,7 +118945,7 @@
                 "LiquidDisgust"
             ],
             "stats": [
-                "[Shock|Shocking] [HitDamage|Hits] have a 50% chance to also Shock enemies in a 1.5 metre radius"
+                "[Shock|Shocking] [Hit|Hits] have a 50% chance to also Shock enemies in a 1.5 metre radius"
             ],
             "group": 1087,
             "orbit": 0,
@@ -119442,7 +119442,7 @@
             "name": "Projectile Damage if Melee Hit",
             "icon": "Art/2DArt/SkillIcons/passives/projectilespeed.png",
             "stats": [
-                "15% increased [Projectile] Damage if you've dealt a [Melee] [HitDamage|Hit] in the past eight seconds"
+                "15% increased [Projectile] Damage if you've dealt a [Melee] [Hit] in the past eight seconds"
             ],
             "group": 1096,
             "orbit": 3,
@@ -119468,7 +119468,7 @@
             "name": "Projectile Damage if Melee Hit",
             "icon": "Art/2DArt/SkillIcons/passives/projectilespeed.png",
             "stats": [
-                "15% increased [Projectile] Damage if you've dealt a [Melee] [HitDamage|Hit] in the past eight seconds"
+                "15% increased [Projectile] Damage if you've dealt a [Melee] [Hit] in the past eight seconds"
             ],
             "group": 1096,
             "orbit": 2,
@@ -119492,7 +119492,7 @@
             "name": "Melee Damage if Projectile Hit",
             "icon": "Art/2DArt/SkillIcons/passives/MeleeAoENode.png",
             "stats": [
-                "15% increased [Melee] Damage if you've dealt a [Projectile] [Attack] [HitDamage|Hit] in the past eight seconds"
+                "15% increased [Melee] Damage if you've dealt a [Projectile] [Attack] [Hit] in the past eight seconds"
             ],
             "group": 1096,
             "orbit": 3,
@@ -119518,7 +119518,7 @@
             "name": "Melee Damage if Projectile Hit",
             "icon": "Art/2DArt/SkillIcons/passives/MeleeAoENode.png",
             "stats": [
-                "15% increased [Melee] Damage if you've dealt a [Projectile] [Attack] [HitDamage|Hit] in the past eight seconds"
+                "15% increased [Melee] Damage if you've dealt a [Projectile] [Attack] [Hit] in the past eight seconds"
             ],
             "group": 1096,
             "orbit": 2,
@@ -119548,8 +119548,8 @@
                 "LiquidEnvy"
             ],
             "stats": [
-                "+0.4 metres to [Melee] [Strike] Range if you've dealt a [Projectile] [Attack] [HitDamage|Hit] in the past eight seconds",
-                "[Projectile|Projectiles] have 25% chance to [Fork] if you've dealt a [Melee] [HitDamage|Hit] in the past eight seconds"
+                "+0.4 metres to [Melee] [Strike] Range if you've dealt a [Projectile] [Attack] [Hit] in the past eight seconds",
+                "[Projectile|Projectiles] have 25% chance to [Fork] if you've dealt a [Melee] [Hit] in the past eight seconds"
             ],
             "group": 1096,
             "orbit": 0,
@@ -120230,7 +120230,7 @@
             "name": "Incision Chance",
             "icon": "Art/2DArt/SkillIcons/passives/Blood2.png",
             "stats": [
-                "20% chance for [Attack] [HitDamage|Hits] to apply [Incision]"
+                "20% chance for [Attack] [Hit|Hits] to apply [Incision]"
             ],
             "group": 1102,
             "orbit": 0,
@@ -120459,7 +120459,7 @@
             ],
             "stats": [
                 "25% increased [Critical|Critical Hit Chance] for [Spell|Spells]",
-                "[HitDamage|Hits] have 25% reduced [Critical|Critical Hit] Chance against you"
+                "[Hit|Hits] have 25% reduced [Critical|Critical Hit] Chance against you"
             ],
             "group": 1104,
             "orbit": 3,
@@ -120819,8 +120819,8 @@
                 "ConcentratedLiquidFear"
             ],
             "stats": [
-                "Successfully [Parry|Parrying] a [Melee] [HitDamage|Hit] grants 40% increased Damage to your next Ranged [Attack]",
-                "Successfully [Parry|Parrying] a [Projectile] [HitDamage|Hit] grants 40% increased Damage to your next [Melee] [Attack]"
+                "Successfully [Parry|Parrying] a [Melee] [Hit] grants 40% increased Damage to your next Ranged [Attack]",
+                "Successfully [Parry|Parrying] a [Projectile] [Hit] grants 40% increased Damage to your next [Melee] [Attack]"
             ],
             "group": 1109,
             "orbit": 0,
@@ -120875,7 +120875,7 @@
                 "DilutedLiquidGuilt"
             ],
             "stats": [
-                "50% chance to [Knockback|Knock Back] [Bleeding] Enemies with [HitDamage|Hits]"
+                "50% chance to [Knockback|Knock Back] [Bleeding] Enemies with [Hit|Hits]"
             ],
             "group": 1110,
             "orbit": 0,
@@ -121557,7 +121557,7 @@
             "name": "Daze Chance",
             "icon": "Art/2DArt/SkillIcons/passives/damage.png",
             "stats": [
-                "5% chance to [Daze] on [HitDamage|Hit]"
+                "5% chance to [Daze] on [Hit]"
             ],
             "group": 1115,
             "orbit": 2,
@@ -121588,7 +121588,7 @@
             ],
             "stats": [
                 "25% increased [Attack] Damage",
-                "5% chance to [Daze] on [HitDamage|Hit]"
+                "5% chance to [Daze] on [Hit]"
             ],
             "group": 1115,
             "orbit": 7,
@@ -121698,7 +121698,7 @@
                 "LiquidEnvy"
             ],
             "stats": [
-                "30% increased Damage with [HitDamage|Hits] against [Hinder|Hindered] Enemies",
+                "30% increased Damage with [Hit|Hits] against [Hinder|Hindered] Enemies",
                 "[Debuff|Debuffs] you inflict have 10% increased [SlowMagnitudeModifier|Slow Magnitude]"
             ],
             "group": 1117,
@@ -122096,7 +122096,7 @@
                 "DilutedLiquidGreed"
             ],
             "stats": [
-                "5% of Damage from [HitDamage|Hits] is taken from your Damageable [Companion]'s Life before you",
+                "5% of Damage from [Hit|Hits] is taken from your Damageable [Companion]'s Life before you",
                 "20% increased [Armour], [Evasion] and [EnergyShield|Energy Shield] while your [Companion] is in your [Presence]"
             ],
             "group": 1123,
@@ -122156,7 +122156,7 @@
                 "ConcentratedLiquidSuffering"
             ],
             "stats": [
-                "[LifeLeech|Leeching Life] from your [HitDamage|Hits] causes your [Companion] to also Leech the [LeechSameAmount|same amount] of Life"
+                "[LifeLeech|Leeching Life] from your [Hit|Hits] causes your [Companion] to also Leech the [LeechSameAmount|same amount] of Life"
             ],
             "group": 1123,
             "orbit": 3,
@@ -122297,7 +122297,7 @@
             ],
             "stats": [
                 "25% increased [Blind] duration",
-                "25% increased Damage with [HitDamage|Hits] against [Blind|Blinded] Enemies"
+                "25% increased Damage with [Hit|Hits] against [Blind|Blinded] Enemies"
             ],
             "group": 1124,
             "orbit": 2,
@@ -122323,7 +122323,7 @@
             "name": "Damage vs Blinded",
             "icon": "Art/2DArt/SkillIcons/passives/EvasionNode.png",
             "stats": [
-                "15% increased Damage with [HitDamage|Hits] against [Blind|Blinded] Enemies"
+                "15% increased Damage with [Hit|Hits] against [Blind|Blinded] Enemies"
             ],
             "group": 1124,
             "orbit": 3,
@@ -122373,7 +122373,7 @@
             "name": "Damage vs Blinded",
             "icon": "Art/2DArt/SkillIcons/passives/EvasionNode.png",
             "stats": [
-                "15% increased Damage with [HitDamage|Hits] against [Blind|Blinded] Enemies"
+                "15% increased Damage with [Hit|Hits] against [Blind|Blinded] Enemies"
             ],
             "group": 1124,
             "orbit": 2,
@@ -123106,8 +123106,8 @@
                 "LiquidDespair"
             ],
             "stats": [
-                "100% increased [Evasion|Evasion Rating] if you have been [HitDamage|Hit] [Recently|Recently]",
-                "30% reduced [Evasion] Rating if you haven't been [HitDamage|Hit] [Recently]"
+                "100% increased [Evasion|Evasion Rating] if you have been [Hit] [Recently|Recently]",
+                "30% reduced [Evasion] Rating if you haven't been [Hit] [Recently]"
             ],
             "group": 1133,
             "orbit": 3,
@@ -123140,8 +123140,8 @@
                 "DilutedLiquidGreed"
             ],
             "stats": [
-                "30% reduced [Evasion|Evasion Rating] if you have been [HitDamage|Hit] [Recently|Recently]",
-                "100% increased [Evasion] Rating if you haven't been [HitDamage|Hit] [Recently]"
+                "30% reduced [Evasion|Evasion Rating] if you have been [Hit] [Recently|Recently]",
+                "100% increased [Evasion] Rating if you haven't been [Hit] [Recently]"
             ],
             "group": 1133,
             "orbit": 3,
@@ -124882,7 +124882,7 @@
             ],
             "stats": [
                 "10% [FasterESRechargeStart|faster start of Energy Shield Recharge]",
-                "20% increased [Evasion] Rating if you haven't been [HitDamage|Hit] [Recently]",
+                "20% increased [Evasion] Rating if you haven't been [Hit] [Recently]",
                 "3% increased Movement Speed while you have [EnergyShield|Energy Shield]"
             ],
             "group": 1149,
@@ -125432,7 +125432,7 @@
             ],
             "stats": [
                 "30% increased [Stun] Buildup",
-                "[HitDamage|Hits] [ArmourBreak|Break] 50% increased [Armour|Armour] on targets with [Ailments]"
+                "[Hit|Hits] [ArmourBreak|Break] 50% increased [Armour|Armour] on targets with [Ailments]"
             ],
             "group": 1153,
             "orbit": 7,
@@ -125773,7 +125773,7 @@
             ],
             "stats": [
                 "15% increased Duration of [DamagingAilments|Damaging Ailments] on Enemies",
-                "30% increased Damage with [HitDamage|Hits] against Enemies affected by [Ailments]"
+                "30% increased Damage with [Hit|Hits] against Enemies affected by [Ailments]"
             ],
             "group": 1162,
             "orbit": 0,
@@ -126032,7 +126032,7 @@
                 "LiquidEnvy"
             ],
             "stats": [
-                "25% chance for [Attack|Attacks] to [Maim|Maim] on [HitDamage|Hit] against [Poison|Poisoned] Enemies",
+                "25% chance for [Attack|Attacks] to [Maim|Maim] on [Hit] against [Poison|Poisoned] Enemies",
                 "25% increased [BuffMagnitude|Magnitude] of [Poison] you inflict"
             ],
             "group": 1165,
@@ -126447,7 +126447,7 @@
                 "ConcentratedLiquidFear"
             ],
             "stats": [
-                "[Physical] [Spell] [Critical] [HitDamage|Hits] build [Pinned|Pin]"
+                "[Physical] [Spell] [Critical] [Hit|Hits] build [Pinned|Pin]"
             ],
             "group": 1172,
             "orbit": 4,
@@ -126506,7 +126506,7 @@
             "name": "Bleed Chance",
             "icon": "Art/2DArt/SkillIcons/passives/Blood2.png",
             "stats": [
-                "5% chance to inflict [Bleeding|Bleeding] on [HitDamage|Hit]"
+                "5% chance to inflict [Bleeding|Bleeding] on [Hit]"
             ],
             "group": 1172,
             "orbit": 3,
@@ -126531,7 +126531,7 @@
             "name": "Bleed Chance",
             "icon": "Art/2DArt/SkillIcons/passives/Blood2.png",
             "stats": [
-                "5% chance to inflict [Bleeding|Bleeding] on [HitDamage|Hit]"
+                "5% chance to inflict [Bleeding|Bleeding] on [Hit]"
             ],
             "group": 1172,
             "orbit": 3,
@@ -126610,7 +126610,7 @@
             "name": "Bleed Chance",
             "icon": "Art/2DArt/SkillIcons/passives/Blood2.png",
             "stats": [
-                "5% chance to inflict [Bleeding|Bleeding] on [HitDamage|Hit]"
+                "5% chance to inflict [Bleeding|Bleeding] on [Hit]"
             ],
             "group": 1172,
             "orbit": 7,
@@ -127097,7 +127097,7 @@
                 "LiquidDisgust"
             ],
             "stats": [
-                "Cannot be [LightStun|Light Stunned] if you haven't been [HitDamage|Hit] [Recently]"
+                "Cannot be [LightStun|Light Stunned] if you haven't been [Hit] [Recently]"
             ],
             "group": 1179,
             "orbit": 2,
@@ -127548,7 +127548,7 @@
             "stats": [
                 "15% increased [Attack] Area Damage",
                 "10% increased Area of Effect for [Attack|Attacks]",
-                "5% chance to [Daze] on [HitDamage|Hit]"
+                "5% chance to [Daze] on [Hit]"
             ],
             "group": 1185,
             "orbit": 7,
@@ -129285,7 +129285,7 @@
             ],
             "stats": [
                 "24% increased [Attack] Damage",
-                "10% chance to [Blind] Enemies on [HitDamage|Hit] with [Attack|Attacks]"
+                "10% chance to [Blind] Enemies on [Hit] with [Attack|Attacks]"
             ],
             "group": 1210,
             "orbit": 7,
@@ -133986,7 +133986,7 @@
             "name": "Damage against Ailments",
             "icon": "Art/2DArt/SkillIcons/passives/ElementalDamagenode.png",
             "stats": [
-                "12% increased Damage with [HitDamage|Hits] against Enemies affected by [ElementalAilments|Elemental Ailments]"
+                "12% increased Damage with [Hit|Hits] against Enemies affected by [ElementalAilments|Elemental Ailments]"
             ],
             "group": 1272,
             "orbit": 2,
@@ -134015,7 +134015,7 @@
                 "ConcentratedLiquidIsolation"
             ],
             "stats": [
-                "25% increased Damage with [HitDamage|Hits] against Enemies affected by [ElementalAilments|Elemental Ailments]",
+                "25% increased Damage with [Hit|Hits] against Enemies affected by [ElementalAilments|Elemental Ailments]",
                 "15% increased Duration of [Ignite], [Shock] and [Chill] on Enemies"
             ],
             "group": 1272,
@@ -134037,7 +134037,7 @@
             "name": "Damage against Ailments",
             "icon": "Art/2DArt/SkillIcons/passives/ElementalDamagenode.png",
             "stats": [
-                "12% increased Damage with [HitDamage|Hits] against Enemies affected by [ElementalAilments|Elemental Ailments]"
+                "12% increased Damage with [Hit|Hits] against Enemies affected by [ElementalAilments|Elemental Ailments]"
             ],
             "group": 1272,
             "orbit": 2,
@@ -134886,7 +134886,7 @@
             ],
             "grantedStrength": 10,
             "stats": [
-                "[HitDamage|Hits] [ArmourBreak|Break] 30% increased [Armour|Armour] on targets with [Ailments]",
+                "[Hit|Hits] [ArmourBreak|Break] 30% increased [Armour|Armour] on targets with [Ailments]",
                 "+10 to [Strength]",
                 "25% increased [Physical] Damage"
             ],
@@ -134915,7 +134915,7 @@
                 25520
             ],
             "stats": [
-                "5% chance to [Daze] on [HitDamage|Hit]"
+                "5% chance to [Daze] on [Hit]"
             ],
             "group": 1280,
             "orbit": 6,
@@ -135814,7 +135814,7 @@
             "name": "Poison Chance",
             "icon": "Art/2DArt/SkillIcons/passives/Poison.png",
             "stats": [
-                "8% chance to [Poison|Poison] on [HitDamage|Hit]"
+                "8% chance to [Poison|Poison] on [Hit]"
             ],
             "group": 1283,
             "orbit": 7,
@@ -135840,7 +135840,7 @@
             "name": "Poison Chance",
             "icon": "Art/2DArt/SkillIcons/passives/Poison.png",
             "stats": [
-                "8% chance to [Poison|Poison] on [HitDamage|Hit]"
+                "8% chance to [Poison|Poison] on [Hit]"
             ],
             "group": 1283,
             "orbit": 4,
@@ -136307,7 +136307,7 @@
             "icon": "Art/2DArt/SkillIcons/passives/AzmeriWildOx.png",
             "grantedStrength": 5,
             "stats": [
-                "[HitDamage|Hits] against you have 5% reduced [CriticalDamageBonus|Critical Damage Bonus]",
+                "[Hit|Hits] against you have 5% reduced [CriticalDamageBonus|Critical Damage Bonus]",
                 "+5 to [Strength]"
             ],
             "group": 1287,
@@ -136332,7 +136332,7 @@
             "icon": "Art/2DArt/SkillIcons/passives/AzmeriWildOx.png",
             "grantedStrength": 5,
             "stats": [
-                "[HitDamage|Hits] against you have 5% reduced [CriticalDamageBonus|Critical Damage Bonus]",
+                "[Hit|Hits] against you have 5% reduced [CriticalDamageBonus|Critical Damage Bonus]",
                 "+5 to [Strength]"
             ],
             "group": 1287,
@@ -136358,7 +136358,7 @@
             "icon": "Art/2DArt/SkillIcons/passives/AzmeriWildOx.png",
             "grantedStrength": 5,
             "stats": [
-                "[HitDamage|Hits] against you have 5% reduced [CriticalDamageBonus|Critical Damage Bonus]",
+                "[Hit|Hits] against you have 5% reduced [CriticalDamageBonus|Critical Damage Bonus]",
                 "+5 to [Strength]"
             ],
             "group": 1287,
@@ -136390,7 +136390,7 @@
             ],
             "grantedStrength": 10,
             "stats": [
-                "[HitDamage|Hits] against you have 30% reduced [CriticalDamageBonus|Critical Damage Bonus]",
+                "[Hit|Hits] against you have 30% reduced [CriticalDamageBonus|Critical Damage Bonus]",
                 "15% reduced Duration of [Ailments|Ailments] on You",
                 "+10 to [Strength]"
             ],
@@ -136509,7 +136509,7 @@
                 "LiquidParanoia"
             ],
             "stats": [
-                "10% chance to [Daze] on [HitDamage|Hit]",
+                "10% chance to [Daze] on [Hit]",
                 "25% increased [Daze] Duration"
             ],
             "group": 1291,
@@ -136537,7 +136537,7 @@
                 33404
             ],
             "stats": [
-                "5% chance to [Daze] on [HitDamage|Hit]"
+                "5% chance to [Daze] on [Hit]"
             ],
             "group": 1291,
             "orbit": 3,
@@ -136764,7 +136764,7 @@
                 64601
             ],
             "stats": [
-                "15% increased Damage with [HitDamage|Hits] against [Blind|Blinded] Enemies"
+                "15% increased Damage with [Hit|Hits] against [Blind|Blinded] Enemies"
             ],
             "group": 1292,
             "orbit": 3,
@@ -136790,7 +136790,7 @@
                 64601
             ],
             "stats": [
-                "5% chance to [Blind] Enemies on [HitDamage|Hit]"
+                "5% chance to [Blind] Enemies on [Hit]"
             ],
             "group": 1292,
             "orbit": 3,
@@ -137482,7 +137482,7 @@
             ],
             "stats": [
                 "20% increased [Freeze|Freeze] Buildup",
-                "[HitDamage|Hits] ignore non-negative [ElementalDamage|Elemental] [Resistances] of [Frozen] Enemies"
+                "[Hit|Hits] ignore non-negative [ElementalDamage|Elemental] [Resistances] of [Frozen] Enemies"
             ],
             "group": 1302,
             "orbit": 7,
@@ -137898,7 +137898,7 @@
             ],
             "stats": [
                 "20% increased [Evasion|Evasion Rating]",
-                "Prevent +3% of Damage from [Deflect|Deflected] [HitDamage|Hits]"
+                "Prevent +3% of Damage from [Deflect|Deflected] [Hit|Hits]"
             ],
             "group": 1310,
             "orbit": 3,
@@ -137928,7 +137928,7 @@
                 "ConcentratedLiquidSuffering"
             ],
             "stats": [
-                "-5% to amount of [HitDamage|Damage] Prevented by [Deflect|Deflection]",
+                "-5% to amount of [Hit|Damage] Prevented by [Deflect|Deflection]",
                 "20% increased [Deflect|Deflection Rating]"
             ],
             "group": 1310,
@@ -138740,7 +138740,7 @@
             ],
             "stats": [
                 "20% increased [ElementalDamage|Elemental] Damage with [Attack|Attacks]",
-                "5% of [Physical] Damage from [HitDamage|Hits] taken as Damage of a Random [ElementalDamage|Element]"
+                "5% of [Physical] Damage from [Hit|Hits] taken as Damage of a Random [ElementalDamage|Element]"
             ],
             "group": 1320,
             "orbit": 2,
@@ -139776,7 +139776,7 @@
                 34497
             ],
             "stats": [
-                "8% chance to [Poison|Poison] on [HitDamage|Hit]"
+                "8% chance to [Poison|Poison] on [Hit]"
             ],
             "group": 1332,
             "orbit": 7,
@@ -139802,7 +139802,7 @@
                 34497
             ],
             "stats": [
-                "8% chance to [Poison|Poison] on [HitDamage|Hit]"
+                "8% chance to [Poison|Poison] on [Hit]"
             ],
             "group": 1332,
             "orbit": 7,
@@ -140482,8 +140482,8 @@
                 "ConcentratedLiquidIsolation"
             ],
             "stats": [
-                "20% chance for Damage of Enemies [HitDamage|Hitting] you to be [Unlucky]",
-                "20% chance for Damage with [HitDamage|Hits] to be [Lucky]"
+                "20% chance for Damage of Enemies [Hit|Hitting] you to be [Unlucky]",
+                "20% chance for Damage with [Hit|Hits] to be [Lucky]"
             ],
             "group": 1341,
             "orbit": 0,
@@ -141194,7 +141194,7 @@
                 "ConcentratedLiquidFear"
             ],
             "stats": [
-                "15% of Damage taken from [Deflect|Deflected] [HitDamage|Hits] [Recoup|Recouped] as Life",
+                "15% of Damage taken from [Deflect|Deflected] [Hit|Hits] [Recoup|Recouped] as Life",
                 "20% [FasterESRechargeStart|faster start of Energy Shield Recharge] when not on Full Life"
             ],
             "group": 1344,
@@ -141599,7 +141599,7 @@
                 "LiquidParanoia"
             ],
             "stats": [
-                "10% chance for [Attack] [HitDamage|Hits] to apply ten [Incision]"
+                "10% chance for [Attack] [Hit|Hits] to apply ten [Incision]"
             ],
             "group": 1349,
             "orbit": 3,
@@ -141657,7 +141657,7 @@
             "name": "Incision Chance",
             "icon": "Art/2DArt/SkillIcons/passives/Blood2.png",
             "stats": [
-                "20% chance for [Attack] [HitDamage|Hits] to apply [Incision]"
+                "20% chance for [Attack] [Hit|Hits] to apply [Incision]"
             ],
             "group": 1349,
             "orbit": 7,
@@ -141681,7 +141681,7 @@
             "name": "Incision Chance",
             "icon": "Art/2DArt/SkillIcons/passives/Blood2.png",
             "stats": [
-                "20% chance for [Attack] [HitDamage|Hits] to apply [Incision]"
+                "20% chance for [Attack] [Hit|Hits] to apply [Incision]"
             ],
             "group": 1349,
             "orbit": 7,
@@ -141709,7 +141709,7 @@
             "name": "Incision Chance",
             "icon": "Art/2DArt/SkillIcons/passives/Blood2.png",
             "stats": [
-                "20% chance for [Attack] [HitDamage|Hits] to apply [Incision]"
+                "20% chance for [Attack] [Hit|Hits] to apply [Incision]"
             ],
             "group": 1349,
             "orbit": 4,
@@ -142986,7 +142986,7 @@
                 "LiquidDespair"
             ],
             "stats": [
-                "40% increased [Evasion|Evasion Rating] if you have been [HitDamage|Hit] [Recently|Recently]",
+                "40% increased [Evasion|Evasion Rating] if you have been [Hit] [Recently|Recently]",
                 "40% [FasterESRechargeStart|faster start of Energy Shield Recharge] if you've been [Stun|Stunned] [Recently]"
             ],
             "group": 1365,
@@ -143223,7 +143223,7 @@
             ],
             "stats": [
                 "4% increased Area of Effect for [Attack|Attacks]",
-                "5% Chance to build an additional [Combo] on [HitDamage|Hit]"
+                "5% Chance to build an additional [Combo] on [Hit]"
             ],
             "group": 1367,
             "orbit": 2,
@@ -143250,7 +143250,7 @@
             ],
             "stats": [
                 "4% increased Area of Effect for [Attack|Attacks]",
-                "5% Chance to build an additional [Combo] on [HitDamage|Hit]"
+                "5% Chance to build an additional [Combo] on [Hit]"
             ],
             "group": 1367,
             "orbit": 2,
@@ -143278,7 +143278,7 @@
             ],
             "stats": [
                 "4% increased Area of Effect for [Attack|Attacks]",
-                "5% Chance to build an additional [Combo] on [HitDamage|Hit]"
+                "5% Chance to build an additional [Combo] on [Hit]"
             ],
             "group": 1367,
             "orbit": 2,
@@ -144606,7 +144606,7 @@
         "16568": {
             "id": "companions24",
             "skill": 16568,
-            "name": "Defenses and Companion Life",
+            "name": "Defences and Companion Life",
             "icon": "Art/2DArt/SkillIcons/passives/CompanionsNode1.png",
             "keystonesInRadius": [
                 14226
@@ -145331,7 +145331,7 @@
                 64601
             ],
             "stats": [
-                "5% chance to [Daze] on [HitDamage|Hit]"
+                "5% chance to [Daze] on [Hit]"
             ],
             "group": 1397,
             "orbit": 7,
@@ -145396,7 +145396,7 @@
                 64601
             ],
             "stats": [
-                "5% chance to [Daze] on [HitDamage|Hit]"
+                "5% chance to [Daze] on [Hit]"
             ],
             "group": 1397,
             "orbit": 2,
@@ -145700,7 +145700,7 @@
             ],
             "stats": [
                 "20% increased [Knockback] Distance",
-                "10% chance to [Daze] on [HitDamage|Hit]",
+                "10% chance to [Daze] on [Hit]",
                 "25% increased [Physical] Damage"
             ],
             "group": 1402,
@@ -145891,7 +145891,7 @@
                 "LiquidEnvy"
             ],
             "stats": [
-                "5% chance to [Daze] on [HitDamage|Hit]",
+                "5% chance to [Daze] on [Hit]",
                 "[Gain] 12% of [Physical] Damage as Extra [Cold] Damage against [Daze|Dazed] Enemies"
             ],
             "group": 1404,
@@ -145927,7 +145927,7 @@
                 "LiquidEnvy"
             ],
             "stats": [
-                "5% chance to [Daze] on [HitDamage|Hit]",
+                "5% chance to [Daze] on [Hit]",
                 "[Gain] 12% of [Physical] Damage as Extra [Lightning] Damage against [Daze|Dazed] Enemies"
             ],
             "group": 1404,
@@ -146158,7 +146158,7 @@
             "icon": "Art/2DArt/SkillIcons/passives/MarkNode.png",
             "stats": [
                 "8% increased Effect of your [Mark] Skills",
-                "5% chance to [Blind] Enemies on [HitDamage|Hit] with [Attack|Attacks]"
+                "5% chance to [Blind] Enemies on [Hit] with [Attack|Attacks]"
             ],
             "group": 1406,
             "orbit": 2,
@@ -146315,8 +146315,8 @@
             ],
             "stats": [
                 "Gain [Deflect|Deflection Rating] equal to 8% of [Evasion|Evasion Rating]",
-                "[Deflect|Deflected] [HitDamage|Hits] cannot inflict [Maim] on you",
-                "[Deflect|Deflected] [HitDamage|Hits] cannot inflict [Bleeding] on you"
+                "[Deflect|Deflected] [Hit|Hits] cannot inflict [Maim] on you",
+                "[Deflect|Deflected] [Hit|Hits] cannot inflict [Bleeding] on you"
             ],
             "group": 1407,
             "orbit": 3,
@@ -146688,7 +146688,7 @@
                 34497
             ],
             "stats": [
-                "20% increased Damage with [HitDamage|Hits] against Enemies that are on Full Life"
+                "20% increased Damage with [Hit|Hits] against Enemies that are on Full Life"
             ],
             "group": 1413,
             "orbit": 7,
@@ -146717,7 +146717,7 @@
                 34497
             ],
             "stats": [
-                "20% increased Damage with [HitDamage|Hits] against Enemies that are on Full Life"
+                "20% increased Damage with [Hit|Hits] against Enemies that are on Full Life"
             ],
             "group": 1413,
             "orbit": 0,
@@ -146752,7 +146752,7 @@
             "stats": [
                 "40% increased [Critical|Critical Hit Chance] against Enemies that are on Full Life",
                 "Cannot be [Blind|Blinded] while on Full Life",
-                "80% increased Damage with [HitDamage|Hits] against Enemies that are on Full Life"
+                "80% increased Damage with [Hit|Hits] against Enemies that are on Full Life"
             ],
             "group": 1413,
             "orbit": 7,
@@ -147759,7 +147759,7 @@
             ],
             "stats": [
                 "25% increased [Attack] Damage",
-                "[Attack|Attacks] have 25% chance to [Maim|Maim] on [HitDamage|Hit]"
+                "[Attack|Attacks] have 25% chance to [Maim|Maim] on [Hit]"
             ],
             "group": 1428,
             "orbit": 7,
@@ -149067,7 +149067,7 @@
             "name": "Poison Chance",
             "icon": "Art/2DArt/SkillIcons/passives/Poison.png",
             "stats": [
-                "8% chance to [Poison|Poison] on [HitDamage|Hit]"
+                "8% chance to [Poison|Poison] on [Hit]"
             ],
             "group": 1441,
             "orbit": 3,
@@ -149197,7 +149197,7 @@
             "name": "Blind Chance",
             "icon": "Art/2DArt/SkillIcons/passives/EvasionNode.png",
             "stats": [
-                "5% chance to [Blind] Enemies on [HitDamage|Hit]"
+                "5% chance to [Blind] Enemies on [Hit]"
             ],
             "group": 1442,
             "orbit": 7,
@@ -149224,7 +149224,7 @@
                 34497
             ],
             "stats": [
-                "5% chance to [Blind] Enemies on [HitDamage|Hit]"
+                "5% chance to [Blind] Enemies on [Hit]"
             ],
             "group": 1442,
             "orbit": 2,
@@ -149518,7 +149518,7 @@
             ],
             "stats": [
                 "16% increased Skill Effect Duration",
-                "[Companion|Companions] have a 40% chance to [Poison] on [HitDamage|Hit]"
+                "[Companion|Companions] have a 40% chance to [Poison] on [Hit]"
             ],
             "group": 1451,
             "orbit": 0,
@@ -150573,7 +150573,7 @@
                 "ConcentratedLiquidSuffering"
             ],
             "stats": [
-                "[ArmourBreak|Fully Broken Armour] you inflict also increases [Cold] and [Lightning] Damage Taken from [HitDamage|Hits]"
+                "[ArmourBreak|Fully Broken Armour] you inflict also increases [Cold] and [Lightning] Damage Taken from [Hit|Hits]"
             ],
             "group": 1462,
             "orbit": 0,
@@ -150957,7 +150957,7 @@
         "37688": {
             "id": "trap17",
             "skill": 37688,
-            "name": "Devestating Devices",
+            "name": "Devastating Devices",
             "icon": "Art/2DArt/SkillIcons/passives/trapdamage.png",
             "isNotable": true,
             "stats": [
@@ -153039,7 +153039,7 @@
             ],
             "stats": [
                 "25% increased [Critical|Critical Hit] Chance if you've [Trigger|Triggered] a Skill [Recently]",
-                "[Meta] Skills gain 25% increased [Energy] if you've dealt a [Critical] [HitDamage|Hit] [Recently]"
+                "[Meta] Skills gain 25% increased [Energy] if you've dealt a [Critical] [Hit] [Recently]"
             ],
             "group": 1489,
             "orbit": 0,
@@ -153089,7 +153089,7 @@
             "name": "Parry Area",
             "icon": "Art/2DArt/SkillIcons/passives/BucklerNode1.png",
             "stats": [
-                "20% increased [Parry] [HitDamage|Hit] Area of Effect"
+                "20% increased [Parry] [Hit] Area of Effect"
             ],
             "group": 1491,
             "orbit": 4,
@@ -153571,7 +153571,7 @@
             "icon": "Art/2DArt/SkillIcons/passives/MonkStrengthChakra.png",
             "stats": [
                 "5% increased [Attack] Damage",
-                "5% Chance to build an additional [Combo] on [HitDamage|Hit]"
+                "5% Chance to build an additional [Combo] on [Hit]"
             ],
             "group": 1495,
             "orbit": 3,
@@ -153603,7 +153603,7 @@
             ],
             "stats": [
                 "6% increased [Attack] Speed",
-                "20% Chance to build an additional [Combo] on [HitDamage|Hit]"
+                "20% Chance to build an additional [Combo] on [Hit]"
             ],
             "group": 1495,
             "orbit": 2,
@@ -153627,7 +153627,7 @@
             "name": "Combo Gain",
             "icon": "Art/2DArt/SkillIcons/passives/MonkStrengthChakra.png",
             "stats": [
-                "10% Chance to build an additional [Combo] on [HitDamage|Hit]"
+                "10% Chance to build an additional [Combo] on [Hit]"
             ],
             "group": 1495,
             "orbit": 3,
@@ -153734,7 +153734,7 @@
             "name": "Combo Gain",
             "icon": "Art/2DArt/SkillIcons/passives/MonkStrengthChakra.png",
             "stats": [
-                "10% Chance to build an additional [Combo] on [HitDamage|Hit]"
+                "10% Chance to build an additional [Combo] on [Hit]"
             ],
             "group": 1495,
             "orbit": 3,
@@ -153929,7 +153929,7 @@
                 "LiquidEnvy"
             ],
             "stats": [
-                "10% chance to [Daze] on [HitDamage|Hit]",
+                "10% chance to [Daze] on [Hit]",
                 "25% increased [Critical] Hit Chance against [Daze|Dazed] Enemies"
             ],
             "group": 1499,
@@ -153959,7 +153959,7 @@
                 "LiquidParanoia"
             ],
             "stats": [
-                "10% chance to [Daze] on [HitDamage|Hit]",
+                "10% chance to [Daze] on [Hit]",
                 "30% increased Damage against [Daze|Dazed] Enemies"
             ],
             "group": 1499,
@@ -153983,7 +153983,7 @@
             "name": "Damage and Criticals vs Dazed Enemies",
             "icon": "Art/2DArt/SkillIcons/passives/stun2h.png",
             "stats": [
-                "5% chance to [Daze] on [HitDamage|Hit]"
+                "5% chance to [Daze] on [Hit]"
             ],
             "group": 1499,
             "orbit": 0,
@@ -155376,7 +155376,7 @@
                 "ConcentratedLiquidIsolation"
             ],
             "stats": [
-                "10% chance to [Daze] on [HitDamage|Hit]",
+                "10% chance to [Daze] on [Hit]",
                 "30% increased [Armour], [Evasion] and [EnergyShield|Energy Shield] while wielding a [Quarterstaff]",
                 "30% increased [Freeze] Buildup with [Quarterstaff|Quarterstaves]",
                 "30% increased [Stun] Buildup with [Quarterstaff|Quarterstaves]"
@@ -155402,7 +155402,7 @@
             "name": "Quarterstaff Freeze and Daze Buildup",
             "icon": "Art/2DArt/SkillIcons/passives/damagestaff.png",
             "stats": [
-                "5% chance to [Daze] on [HitDamage|Hit]",
+                "5% chance to [Daze] on [Hit]",
                 "20% increased [Freeze] Buildup with [Quarterstaff|Quarterstaves]"
             ],
             "group": 1511,
@@ -155557,7 +155557,7 @@
             "name": "Quarterstaff Freeze and Daze Buildup",
             "icon": "Art/2DArt/SkillIcons/passives/damagestaff.png",
             "stats": [
-                "5% chance to [Daze] on [HitDamage|Hit]",
+                "5% chance to [Daze] on [Hit]",
                 "20% increased [Freeze] Buildup with [Quarterstaff|Quarterstaves]"
             ],
             "group": 1514,
@@ -155759,7 +155759,7 @@
             "stats": [
                 "20% increased [LightRadius|Light Radius]",
                 "Cannot be [Blind|Blinded]",
-                "12% chance to [Blind] Enemies on [HitDamage|Hit]"
+                "12% chance to [Blind] Enemies on [Hit]"
             ],
             "group": 1518,
             "orbit": 3,
@@ -155782,7 +155782,7 @@
             "name": "Damage vs Blinded",
             "icon": "Art/2DArt/SkillIcons/passives/MonkAccuracyChakra.png",
             "stats": [
-                "15% increased Damage with [HitDamage|Hits] against [Blind|Blinded] Enemies"
+                "15% increased Damage with [Hit|Hits] against [Blind|Blinded] Enemies"
             ],
             "group": 1518,
             "orbit": 2,
@@ -155806,7 +155806,7 @@
             "name": "Damage vs Blinded",
             "icon": "Art/2DArt/SkillIcons/passives/MonkAccuracyChakra.png",
             "stats": [
-                "15% increased Damage with [HitDamage|Hits] against [Blind|Blinded] Enemies"
+                "15% increased Damage with [Hit|Hits] against [Blind|Blinded] Enemies"
             ],
             "group": 1518,
             "orbit": 7,
@@ -155830,7 +155830,7 @@
             "name": "Blind Chance",
             "icon": "Art/2DArt/SkillIcons/passives/MonkAccuracyChakra.png",
             "stats": [
-                "5% chance to [Blind] Enemies on [HitDamage|Hit]"
+                "5% chance to [Blind] Enemies on [Hit]"
             ],
             "group": 1518,
             "orbit": 2,
@@ -156022,7 +156022,7 @@
                 "ConcentratedLiquidSuffering"
             ],
             "stats": [
-                "Prevent +6% of Damage from [Deflect|Deflected] [HitDamage|Hits]"
+                "Prevent +6% of Damage from [Deflect|Deflected] [Hit|Hits]"
             ],
             "group": 1521,
             "orbit": 1,
@@ -156691,7 +156691,7 @@
             "name": "Poison Chance",
             "icon": "Art/2DArt/SkillIcons/passives/Poison.png",
             "stats": [
-                "8% chance to [Poison|Poison] on [HitDamage|Hit]"
+                "8% chance to [Poison|Poison] on [Hit]"
             ],
             "group": 1533,
             "orbit": 3,
@@ -156716,7 +156716,7 @@
             "name": "Poison Chance",
             "icon": "Art/2DArt/SkillIcons/passives/Poison.png",
             "stats": [
-                "8% chance to [Poison|Poison] on [HitDamage|Hit]"
+                "8% chance to [Poison|Poison] on [Hit]"
             ],
             "group": 1533,
             "orbit": 7,
@@ -157192,7 +157192,7 @@
             "name": "Poison Chance",
             "icon": "Art/2DArt/SkillIcons/passives/Poison.png",
             "stats": [
-                "8% chance to [Poison|Poison] on [HitDamage|Hit]"
+                "8% chance to [Poison|Poison] on [Hit]"
             ],
             "group": 1536,
             "orbit": 0,
@@ -159356,7 +159356,7 @@
             "ascendancyId": "Ranger1",
             "stats": [
                 "Gain [Tailwind] on Skill use",
-                "Lose all [Tailwind] when [HitDamage|Hit]"
+                "Lose all [Tailwind] when [Hit]"
             ],
             "group": 1552,
             "orbit": 0,
@@ -159549,14 +159549,14 @@
                         "displayMode": 0
                     }
                 ],
-                "secDescrText": "Gain [UnboundFury|Unbound Fury] by inflicting [ElementalAilments|Elemental Ailments] with [HitDamage|Hits] on enemies. Once you reach maximum Unbound Fury, consume it to become Unbound for a duration, vastly augmenting your Elemental prowess.",
+                "secDescrText": "Gain [UnboundFury|Unbound Fury] by inflicting [ElementalAilments|Elemental Ailments] with [Hit|Hits] on enemies. Once you reach maximum Unbound Fury, consume it to become Unbound for a duration, vastly augmenting your Elemental prowess.",
                 "gemTabs": [
                     {
                         "name": "Unbound Avatar",
                         "pages": [
                             {
                                 "stats": [
-                                    "Gain [UnboundFury|Unbound Fury] when you inflict an [ElementalAilments|Elemental Ailment] with a [HitDamage|Hit] on an Enemy\nMaximum 100 Unbound Fury\nCannot gain Unbound Fury while Unbound",
+                                    "Gain [UnboundFury|Unbound Fury] when you inflict an [ElementalAilments|Elemental Ailment] with a [Hit] on an Enemy\nMaximum 100 Unbound Fury\nCannot gain Unbound Fury while Unbound",
                                     "40% more [ElementalDamage|Elemental Damage] while Unbound",
                                     "80% more chance to inflict [ElementalAilments|Elemental Ailments] while Unbound",
                                     "40% more [ElementalAilments|Elemental Ailment] Buildup while Unbound",
@@ -160187,7 +160187,7 @@
             "ascendancyId": "Ranger1",
             "isMultipleChoiceOption": true,
             "stats": [
-                "[Projectile|Projectiles] deal 0% more [HitDamage|Hit] damage to targets in the first 3.5 metres of their movement, scaling up with distance travelled to reach 20% after 7 metres"
+                "[Projectile|Projectiles] deal 0% more [Hit] damage to targets in the first 3.5 metres of their movement, scaling up with distance travelled to reach 20% after 7 metres"
             ],
             "group": 1555,
             "orbit": 0,
@@ -160433,7 +160433,7 @@
             "ascendancyId": "Ranger1",
             "isMultipleChoiceOption": true,
             "stats": [
-                "[Projectile|Projectiles] deal 20% more [HitDamage|Hit] damage to targets in the first 3.5 metres of their movement, scaling down with distance travelled to reach 0% after 7 metres"
+                "[Projectile|Projectiles] deal 20% more [Hit] damage to targets in the first 3.5 metres of their movement, scaling down with distance travelled to reach 0% after 7 metres"
             ],
             "group": 1558,
             "orbit": 0,
@@ -160485,7 +160485,7 @@
             "ascendancyId": "Monk1",
             "stats": [
                 "Skills can build and retain [Combo] regardless of [WeaponSets|Weapon Set]",
-                "Gain [Combo] from all [Attack] [HitDamage|Hits]"
+                "Gain [Combo] from all [Attack] [Hit|Hits]"
             ],
             "group": 1559,
             "orbit": 5,
@@ -160551,14 +160551,14 @@
                         "type": 96
                     }
                 ],
-                "secDescrText": "While active, ethereal bells periodically appear near you. Your [HitDamage|Hits] immediately destroy the bells, creating a shockwave that damages nearby enemies and causes a [HeavyStun|Heavy Stun] on enemies that are [PrimedStun|Primed for Stun]. The bells are themselves always [PrimedStun|Primed for Stun], they can be [CullingStrike|Culled], and [HitDamage|Hits] against them are always [Critical|Critical Hits].",
+                "secDescrText": "While active, ethereal bells periodically appear near you. Your [Hit|Hits] immediately destroy the bells, creating a shockwave that damages nearby enemies and causes a [HeavyStun|Heavy Stun] on enemies that are [PrimedStun|Primed for Stun]. The bells are themselves always [PrimedStun|Primed for Stun], they can be [CullingStrike|Culled], and [Hit|Hits] against them are always [Critical|Critical Hits].",
                 "gemTabs": [
                     {
                         "name": "Bells",
                         "pages": [
                             {
                                 "stats": [
-                                    "Tempest Bells are destroyed after an additional 1 [HitDamage|Hits]",
+                                    "Tempest Bells are destroyed after an additional 1 [Hit|Hits]",
                                     "Bells appear within 3 metre radius of you",
                                     "A bell appears every 3 seconds",
                                     "Bell duration is 21 seconds",
@@ -160581,7 +160581,7 @@
                                     }
                                 ],
                                 "stats": [
-                                    "Tempest Bells are destroyed after an additional 1 [HitDamage|Hits]",
+                                    "Tempest Bells are destroyed after an additional 1 [Hit|Hits]",
                                     "Cannot cause [Stun] buildup",
                                     "Shockwave radius is 2.3 metres"
                                 ],
@@ -160751,7 +160751,7 @@
             "isNotable": true,
             "ascendancyId": "Monk1",
             "stats": [
-                "100% [SurpassChance|Surpassing] chance per enemy [Power] to gain [MountainsTeachings|Mountain's Teachings] on [Immobilised|Immobilising] an enemy, up to a maximum of 30\nLose a [MountainsTeachings|Mountain's Teaching] when you are [HitDamage|Hit], or when you use or [Sustained|Sustain] an [Attack] that benefits from [MountainsTeachings|Mountain's Teachings]"
+                "100% [SurpassChance|Surpassing] chance per enemy [Power] to gain [MountainsTeachings|Mountain's Teachings] on [Immobilised|Immobilising] an enemy, up to a maximum of 30\nLose a [MountainsTeachings|Mountain's Teaching] when you are [Hit], or when you use or [Sustained|Sustain] an [Attack] that benefits from [MountainsTeachings|Mountain's Teachings]"
             ],
             "group": 1559,
             "orbit": 9,
@@ -161484,7 +161484,7 @@
                         "type": 96
                     }
                 ],
-                "secDescrText": "Consume charges from your Mana [Flask] to throw a flask that explodes, dealing [Fire] [Attack] damage in an area. Additional smaller flasks are thrown at nearby [Ignite|Ignited] Enemies. This damage is not based on your unarmed damage, so this is not considered an [UnarmedAttack|Unarmed Attack]",
+                "secDescrText": "Consume charges from your Mana [Flask] to throw a flask that explodes, dealing [Fire] [Attack] damage in an area. Additional smaller flasks are thrown at nearby [Ignite|Ignited] Enemies. This damage is not based on your unarmed damage, so this is not considered an [UnarmedAttack|Unarmed Attack].",
                 "gemTabs": [
                     {
                         "name": "Flask",
@@ -161635,7 +161635,7 @@
                         "type": 96
                     }
                 ],
-                "secDescrText": "Consume charges from your Mana [Flask] to throw a flask that explodes, dealing [Physical] [Attack] damage in an area and [Aggravate|Aggravating Bleeding] on Enemies hit. This damage is not based on your unarmed damage, so this is not considered an [UnarmedAttack|Unarmed Attack]",
+                "secDescrText": "Consume charges from your Mana [Flask] to throw a flask that explodes, dealing [Physical] [Attack] damage in an area and [Aggravate|Aggravating Bleeding] on Enemies hit. This damage is not based on your unarmed damage, so this is not considered an [UnarmedAttack|Unarmed Attack].",
                 "gemTabs": [
                     {
                         "name": "Bleeding Concoction",
@@ -161643,10 +161643,10 @@
                             {
                                 "stats": [
                                     "11 to 21 base [Physical] Damage",
-                                    "Inflicts [Bleeding|Bleeding] on [HitDamage|Hit]",
+                                    "Inflicts [Bleeding|Bleeding] on [Hit]",
                                     "Consumes 5 Charges from your Mana [Flask]",
                                     "Explosion radius is 1.8 metres",
-                                    "[Aggravate] [Bleeding] on [HitDamage|Hit]"
+                                    "[Aggravate] [Bleeding] on [Hit]"
                                 ],
                                 "skillName": "Bleeding Concoction"
                             }
@@ -161766,7 +161766,7 @@
                         "type": 96
                     }
                 ],
-                "secDescrText": "Consume charges from your Mana [Flask] to throw a flask that explodes, dealing [Cold] [Attack] damage in an area and inflicting [Exposure]. This damage is not based on your unarmed damage, so this is not considered an [UnarmedAttack|Unarmed Attack]",
+                "secDescrText": "Consume charges from your Mana [Flask] to throw a flask that explodes, dealing [Cold] [Attack] damage in an area and inflicting [Exposure]. This damage is not based on your unarmed damage, so this is not considered an [UnarmedAttack|Unarmed Attack].",
                 "gemTabs": [
                     {
                         "name": "Shattering Concoction",
@@ -161776,7 +161776,7 @@
                                     "12 to 18 base [Cold] Damage",
                                     "Consumes 5 Charges from your Mana [Flask]",
                                     "[Freeze] enemies that are [PrimedFreeze|Primed for Freeze]",
-                                    "Inflicts [Exposure] on [HitDamage|Hit]",
+                                    "Inflicts [Exposure] on [Hit]",
                                     "Explosion radius is 1.8 metres"
                                 ],
                                 "skillName": "Shattering Concoction"
@@ -161954,7 +161954,7 @@
                         "type": 96
                     }
                 ],
-                "secDescrText": "Consume charges from your Mana [Flask] to throw a flask that explodes, dealing [Lightning] [Attack] damage in an area with high chance to [Shock]. This damage is not based on your unarmed damage, so this is not considered an [UnarmedAttack|Unarmed Attack]",
+                "secDescrText": "Consume charges from your Mana [Flask] to throw a flask that explodes, dealing [Lightning] [Attack] damage in an area with high chance to [Shock]. This damage is not based on your unarmed damage, so this is not considered an [UnarmedAttack|Unarmed Attack].",
                 "gemTabs": [
                     {
                         "name": "Fulminating Concoction",
@@ -162085,7 +162085,7 @@
                         "type": 96
                     }
                 ],
-                "secDescrText": "Consume charges from your Mana [Flask] to throw a flask that explodes, dealing [Physical] [Attack] damage in an area. The thrown flask [Consume|Consumes] [Poison] on [HitDamage|Hit] to cause an acidic burst. This damage is not based on your unarmed damage, so this is not considered an [UnarmedAttack|Unarmed Attack]",
+                "secDescrText": "Consume charges from your Mana [Flask] to throw a flask that explodes, dealing [Physical] [Attack] damage in an area. The thrown flask [Consume|Consumes] [Poison] on [Hit] to cause an acidic burst. This damage is not based on your unarmed damage, so this is not considered an [UnarmedAttack|Unarmed Attack].",
                 "gemTabs": [
                     {
                         "name": "Flask",
@@ -162506,9 +162506,9 @@
                             {
                                 "stats": [
                                     "Requires 100 [Glory] to use",
-                                    "Generates 100% of [Power|Monster Power] as [Glory] for this Skill on dealing [Chaos] [HitDamage|Hit] damage to an enemy or inflicting a [Chaos] damage over time [Debuff] on an enemy",
+                                    "Generates 100% of [Power|Monster Power] as [Glory] for this Skill on dealing [Chaos] [Hit] damage to an enemy or inflicting a [Chaos] damage over time [Debuff] on an enemy",
                                     "Grants 20% more [Physical] and [Chaos] damage",
-                                    "Grants 25% chance to [Withered|Wither] enemies for 4 seconds on [HitDamage|Hit]",
+                                    "Grants 25% chance to [Withered|Wither] enemies for 4 seconds on [Hit]",
                                     "[Trigger] Chayula's Will every 3 seconds"
                                 ],
                                 "skillName": "Archon of Chayula"
@@ -164098,7 +164098,7 @@
             "isNotable": true,
             "ascendancyId": "Huntress1",
             "stats": [
-                "Chance to [HitDamage|Hit] with [Attack|Attacks] can [ExceedChance|exceed 100%]\nGain additional [Critical|Critical Hit] Chance equal to 25% of excess chance to [HitDamage|Hit] with [Attack|Attacks]"
+                "Chance to [Hit] with [Attack|Attacks] can [ExceedChance|exceed 100%]\nGain additional [Critical|Critical Hit] Chance equal to 25% of excess chance to [Hit] with [Attack|Attacks]"
             ],
             "group": 1593,
             "orbit": 0,
@@ -195089,8 +195089,8 @@
             "icon": "Art/2DArt/SkillIcons/passives/GreenAttackSmallPassive.png",
             "isNotable": true,
             "stats": [
-                "30% increased [Melee] Damage if you've dealt a [Projectile] [Attack] [HitDamage|Hit] in the past eight seconds",
-                "30% increased [Projectile] Damage if you've dealt a [Melee] [HitDamage|Hit] in the past eight seconds"
+                "30% increased [Melee] Damage if you've dealt a [Projectile] [Attack] [Hit] in the past eight seconds",
+                "30% increased [Projectile] Damage if you've dealt a [Melee] [Hit] in the past eight seconds"
             ]
         },
         "53849": {
