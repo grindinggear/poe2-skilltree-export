@@ -20886,6 +20886,16 @@
             ]
         },
         "1614": {
+            "x": 21042.4,
+            "y": 6772.6,
+            "orbits": [
+                0
+            ],
+            "nodes": [
+                "38813"
+            ]
+        },
+        "1615": {
             "x": 21105.6,
             "y": 7372.78,
             "orbits": [],
@@ -20893,7 +20903,7 @@
                 "36365"
             ]
         },
-        "1615": {
+        "1616": {
             "x": 21267.8,
             "y": 7257.88,
             "orbits": [
@@ -20903,7 +20913,17 @@
                 "4891"
             ]
         },
-        "1616": {
+        "1617": {
+            "x": 21304,
+            "y": 6898.21,
+            "orbits": [
+                0
+            ],
+            "nodes": [
+                "30100"
+            ]
+        },
+        "1618": {
             "x": 21311.1,
             "y": 7621.8,
             "orbits": [
@@ -20913,7 +20933,7 @@
                 "58149"
             ]
         },
-        "1617": {
+        "1619": {
             "x": 21360,
             "y": 6508.8,
             "orbits": [
@@ -20923,7 +20943,7 @@
                 "37046"
             ]
         },
-        "1618": {
+        "1620": {
             "x": 21491.7,
             "y": 7497.75,
             "orbits": [
@@ -20933,7 +20953,7 @@
                 "60859"
             ]
         },
-        "1619": {
+        "1621": {
             "x": 21533.2,
             "y": 7093.73,
             "orbits": [
@@ -20943,7 +20963,7 @@
                 "30233"
             ]
         },
-        "1620": {
+        "1622": {
             "x": 21668.5,
             "y": 7437.71,
             "orbits": [
@@ -20953,7 +20973,7 @@
                 "22661"
             ]
         },
-        "1621": {
+        "1623": {
             "x": 21814.3,
             "y": 7038.65,
             "orbits": [
@@ -36590,8 +36610,8 @@
             "stats": [
                 "+8% of [Armour|Armour] also applies to [ElementalDamage|Elemental Damage]",
                 "10% [FasterESRechargeStart|faster start of Energy Shield Recharge]",
-                "Immune to [Exposure]",
-                "Unaffected by [ElementalWeakness|Elemental Weakness]"
+                "30% reduced [BuffEffect|effect] of [Curse|Curses] on you",
+                "Immune to [Exposure]"
             ],
             "group": 189,
             "orbit": 2,
@@ -47392,7 +47412,7 @@
                             {
                                 "stats": [
                                     "Barrier recharges after 8 seconds",
-                                    "[ElementalDamage|Elemental Damage] from [HitDamage|Hits] is taken from the Barrier before your Life, Mana or [EnergyShield|Energy Shield]\nBarrier can take [ElementalDamage|Elemental Damage] up to 30% of your [Armour] and [Evasion|Evasion Rating]"
+                                    "[ElementalDamage|Elemental Damage] from [HitDamage|Hits] is taken from the Barrier before your Life, Mana or [EnergyShield|Energy Shield]\nBarrier can take [ElementalDamage|Elemental Damage] equal to 30% of your [Armour] and [Evasion|Evasion Rating], up to a maximum of 32,000"
                                 ],
                                 "skillName": "Sorcery Ward"
                             }
@@ -59009,7 +59029,7 @@
         "14265": {
             "id": "fire85",
             "skill": 14265,
-            "name": "Arsonist",
+            "name": "Pyromancer",
             "icon": "Art/2DArt/SkillIcons/passives/firedamageint.png",
             "isNotable": true,
             "keystonesInRadius": [
@@ -86826,8 +86846,8 @@
                 "ConcentratedLiquidSuffering"
             ],
             "stats": [
-                "15% increased Area of Effect for [Attack|Attacks]",
-                "10% increased [CooldownRecovery|Cooldown Recovery Rate]"
+                "10% increased [CooldownRecovery|Cooldown Recovery Rate]",
+                "15% increased Area of Effect for [Attack|Attacks]"
             ],
             "group": 714,
             "orbit": 7,
@@ -146294,6 +146314,7 @@
                 "ConcentratedLiquidFear"
             ],
             "stats": [
+                "Gain [Deflect|Deflection Rating] equal to 8% of [Evasion|Evasion Rating]",
                 "[Deflect|Deflected] [HitDamage|Hits] cannot inflict [Maim] on you",
                 "[Deflect|Deflected] [HitDamage|Hits] cannot inflict [Bleeding] on you"
             ],
@@ -164586,7 +164607,7 @@
                 "58149"
             ],
             "edges": [
-                6070
+                6071
             ]
         },
         "17058": {
@@ -164685,6 +164706,26 @@
                 6062
             ]
         },
+        "38813": {
+            "id": null,
+            "skill": 38813,
+            "name": "",
+            "icon": "",
+            "stats": [],
+            "ascendancyId": "Huntress3",
+            "group": 1614,
+            "orbit": 0,
+            "orbitIndex": 0,
+            "x": 21042.4,
+            "y": 6772.6,
+            "out": [],
+            "in": [
+                "30100"
+            ],
+            "edges": [
+                6070
+            ]
+        },
         "36365": {
             "id": "AscendancyHuntress3Start",
             "skill": 36365,
@@ -164693,7 +164734,7 @@
             "ascendancyId": "Huntress3",
             "isAscendancyStart": true,
             "stats": [],
-            "group": 1614,
+            "group": 1615,
             "orbit": 6,
             "orbitIndex": 27,
             "x": 21698.9,
@@ -164732,7 +164773,7 @@
                 "+1 [Charm] Slot",
                 "20% more [Charm] Charges gained"
             ],
-            "group": 1615,
+            "group": 1616,
             "orbit": 0,
             "orbitIndex": 0,
             "x": 21267.8,
@@ -164744,7 +164785,30 @@
             ],
             "edges": [
                 6061,
-                6071
+                6072
+            ]
+        },
+        "30100": {
+            "id": null,
+            "skill": 30100,
+            "name": "",
+            "icon": "",
+            "stats": [],
+            "ascendancyId": "Huntress3",
+            "group": 1617,
+            "orbit": 0,
+            "orbitIndex": 0,
+            "x": 21304,
+            "y": 6898.21,
+            "out": [
+                "38813"
+            ],
+            "in": [
+                "30233"
+            ],
+            "edges": [
+                6073,
+                6070
             ]
         },
         "58149": {
@@ -164756,7 +164820,7 @@
             "stats": [
                 "10% increased Life Recovery rate"
             ],
-            "group": 1616,
+            "group": 1618,
             "orbit": 0,
             "orbitIndex": 0,
             "x": 21311.1,
@@ -164769,7 +164833,7 @@
             ],
             "edges": [
                 6064,
-                6070
+                6071
             ]
         },
         "37046": {
@@ -164837,7 +164901,7 @@
                 "15% more Damage against Enemies affected by Blood Boils",
                 "Grants Skill: <underline>{Blood Boil}"
             ],
-            "group": 1617,
+            "group": 1619,
             "orbit": 0,
             "orbitIndex": 0,
             "x": 21360,
@@ -164847,7 +164911,7 @@
                 "11776"
             ],
             "edges": [
-                6073
+                6075
             ]
         },
         "60859": {
@@ -164859,7 +164923,7 @@
             "stats": [
                 "15% increased [Charm] Charges gained"
             ],
-            "group": 1618,
+            "group": 1620,
             "orbit": 0,
             "orbitIndex": 0,
             "x": 21491.7,
@@ -164872,7 +164936,7 @@
             ],
             "edges": [
                 6063,
-                6071
+                6072
             ]
         },
         "30233": {
@@ -164946,17 +165010,20 @@
             "stats": [
                 "Grants Skill: <underline>{Ritual Sacrifice}"
             ],
-            "group": 1619,
+            "group": 1621,
             "orbit": 0,
             "orbitIndex": 0,
             "x": 21533.2,
             "y": 7093.73,
-            "out": [],
+            "out": [
+                "30100"
+            ],
             "in": [
                 "22661"
             ],
             "edges": [
-                6072
+                6074,
+                6073
             ]
         },
         "22661": {
@@ -164968,7 +165035,7 @@
             "stats": [
                 "3% increased Movement Speed"
             ],
-            "group": 1620,
+            "group": 1622,
             "orbit": 0,
             "orbitIndex": 0,
             "x": 21668.5,
@@ -164981,7 +165048,7 @@
             ],
             "edges": [
                 6065,
-                6072
+                6074
             ]
         },
         "11776": {
@@ -164993,7 +165060,7 @@
             "stats": [
                 "15% increased [Physical] Damage"
             ],
-            "group": 1621,
+            "group": 1623,
             "orbit": 0,
             "orbitIndex": 0,
             "x": 21814.3,
@@ -165006,7 +165073,7 @@
             ],
             "edges": [
                 6069,
-                6073
+                6075
             ]
         }
     },
@@ -194622,6 +194689,13 @@
             "orbitY": 7382.7
         },
         {
+            "from": 30100,
+            "to": 38813,
+            "orbit": 5,
+            "orbitX": 20815.6,
+            "orbitY": 7580.37
+        },
+        {
             "from": 58149,
             "to": 62804,
             "orbit": 7,
@@ -194634,6 +194708,13 @@
             "orbit": 8,
             "orbitX": 20422.4,
             "orbitY": 8271.63
+        },
+        {
+            "from": 30233,
+            "to": 30100,
+            "orbit": 5,
+            "orbitX": 20882.9,
+            "orbitY": 7623.86
         },
         {
             "from": 22661,
